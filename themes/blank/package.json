@@ -1,0 +1,14 @@
+{
+  "name": "desandoval-blog-theme",
+  "version": "1.0.0",
+  "description": "Theme for DESandoval.net Blog",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postcss-cli": "^7.1.0"
+  }
+}
