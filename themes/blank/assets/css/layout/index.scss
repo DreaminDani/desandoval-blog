@@ -11,9 +11,21 @@ html {
 }
 
 body {     
-    font-family: 'Merriweather', serif;
+    font-family: $font-paragraph;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Raleway', sans-serif;
+    font-family: $font-heading;
+}
+
+a {
+    color: $color-primary;
+
+    &:hover, &:focus {
+        color: $color-secondary;
+    }
+}
+
+main {
+    margin-top: 7em;
 }

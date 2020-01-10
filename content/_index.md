@@ -14,7 +14,7 @@ header:
     spaceBetweenTitleSubtitle: 20
   
   - type: img
-    imageSrc: images/header/background.jpg
+    imageSrc: img/header/background.jpg
     imageSize: cover
     imageRepeat: no-repeat
     imagePosition: center
@@ -36,7 +36,7 @@ header:
       - paddingX: 50
         paddingY: 0
         align: left
-        imageSrc: images/header/background.jpg
+        imageSrc: img/header/background.jpg
         imageSize: cover
         imageRepeat: no-repeat
         imagePosition: center
@@ -51,7 +51,7 @@ header:
       - paddingX: 50
         paddingY: 0
         align: center
-        imageSrc: images/header/background.jpg
+        imageSrc: img/header/background.jpg
         imageSize: cover
         imageRepeat: no-repeat
         imagePosition: center
@@ -66,7 +66,7 @@ header:
       - paddingX: 50
         paddingY: 0
         align: right
-        imageSrc: images/header/background.jpg
+        imageSrc: img/header/background.jpg
         imageSize: cover
         imageRepeat: no-repeat
         imagePosition: center

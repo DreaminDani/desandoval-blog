@@ -18,7 +18,7 @@ plugins:
 highlightTheme: monokai
 revealTheme: bagie
 revealBackgroundColor: "" # #fff or rgba() or hsl()
-revealBackgroundImage: "" # /images/myImage.png   <= static folder path
+revealBackgroundImage: "" # /img/myImage.png   <= static folder path
 revealBackgroundPosition: "" # left top, left center, left bottom, right top, right center ...
 revealBackgroundRepeat: "" # repeat, repeat-x, repeat-y, no-repeat, inherit
 revealBackgroundOpacity: "" # 0~1

@@ -1,9 +1,19 @@
+// START Fonts
+$font-heading: 'Raleway', sans-serif;
+$font-paragraph: 'Merriweather', serif;
+// END Fonts
+
 // START Colors
 $color-background-dark: #303030;
 $color-font: #ffffff;
 $color-header-background: #212121;
-
+$color-primary: #77bf51;
+$color-secondary: #db899a;
 // END Colors
+
+// START Elevations
+$elevation-header: 100;
+// END Elevations
 
 // START Box Shadows
 @mixin elevation($level) {

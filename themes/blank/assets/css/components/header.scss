@@ -1,10 +1,58 @@
 @import "../tokens.scss";
 
 header {
+    display: flex;
     position: fixed;
+    z-index: $elevation-header;
+
+    align-items: center;
     top: 0;
     left: 0;
     width: 100%;
+    
+    padding: 0.5em;
+
     background-color: $color-header-background;
     @include elevation(4);
+
+    .logo-nav {
+        img {
+            width: 4.5em;
+            height: auto;
+            margin: 0 0.45em 0 0.2em;
+        }
+    }
+
+    .site-title {
+        font-family: $font-heading;
+        font-weight: 700;
+        font-size: 1.7rem;
+        letter-spacing: 0.018rem;
+        padding-left: 0.15em;
+    }
+
+    nav {
+        display: flex;
+        flex-direction: column;
+        
+        ul {
+            display: inline-block;
+            list-style: none;
+            margin: 0;
+            margin-left: -0.15em;
+            padding: 0.6em 0;
+        }
+
+        li {
+            display: inline;
+            padding: 0.25em 0.45em;
+
+            a {
+                font-family: $font-heading;
+                letter-spacing: 0.024rem;
+                text-transform: uppercase;
+                text-decoration: none;
+            }
+        }
+    }
 }
