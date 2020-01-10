@@ -11,7 +11,7 @@
 	{{ with .Site.Params.author }}
 	<meta name="author" content="{{ . }}">{{ end }}
 	
-	{{- $sassOptions := dict "targetPath" "assets/css/main.css" -}}
+	{{- $sassOptions := "" -}}
 
 	{{- if (eq (getenv "HUGO_ENV") "production") -}}
 		{{- $sassOptions = merge $sassOptions (dict "outputStyle" "compressed") -}}
@@ -25,7 +25,7 @@
 		{{- $style = $style | postCSS | fingerprint -}}
 	{{- end }}
 
-	<link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}">
+	<link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}">
 	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
 	{{ with .OutputFormats.Get "RSS" -}}
