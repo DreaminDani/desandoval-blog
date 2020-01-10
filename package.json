@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "autoprefixer": "^9.7.3",
     "postcss-cli": "^7.1.0"
   }
 }
