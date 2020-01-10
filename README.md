@@ -1,3 +1,1 @@
-Blog for DESandoval.net
-
-Requires Hugo-Extended to build theme
+# Blog for DESandoval.net
