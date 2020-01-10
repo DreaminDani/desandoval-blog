@@ -1,6 +1,6 @@
 baseURL = "http://ecstatic-gates-1e8340.netlify.com"
 title = "Dani's Blog"
-theme = "zzo"
+theme = "blank"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
