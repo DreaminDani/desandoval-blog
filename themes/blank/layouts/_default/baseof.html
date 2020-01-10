@@ -10,7 +10,22 @@
 	<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.author }}
 	<meta name="author" content="{{ . }}">{{ end }}
-	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+	
+	{{- $sassOptions := dict "targetPath" "assets/css/main.css" -}}
+
+	{{- if (eq (getenv "HUGO_ENV") "production") -}}
+		{{- $sassOptions = merge $sassOptions (dict "outputStyle" "compressed") -}}
+	{{- else -}}
+		{{- $sassOptions = merge $sassOptions (dict "enableSourceMap" true) -}}
+	{{- end -}}
+
+	{{- $style := resources.Get "css/main.scss" | toCSS $sassOptions -}}
+
+	{{- if (eq (getenv "HUGO_ENV") "production") -}}
+		{{- $style = $style | postCSS | fingerprint -}}
+	{{- end }}
+
+	<link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}">
 	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
 	{{ with .OutputFormats.Get "RSS" -}}
