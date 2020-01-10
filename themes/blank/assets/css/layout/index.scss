@@ -1,5 +1,9 @@
+@import "../tokens.scss";
+
 html {
+    background: $color-background-dark;
     box-sizing: border-box;
+    color: $color-font;
 }
 
 *, *:before, *:after {
