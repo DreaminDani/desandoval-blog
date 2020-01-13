@@ -5,9 +5,9 @@
 	<span class="subtitle">{{.}}</span>
 	{{ end }}
 	<div class="homepage-content">
-		<!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
 		{{.Content}}
 	</div>
 </main>
 {{ partial "sidebar.html" . }}
+{{ partial "honors.html" . }}
 {{ end }}

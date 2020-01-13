@@ -27,7 +27,7 @@ aside {
         }
     }
 
-    @media #{$breakpoint} {
+    @media #{$breakpoint-mobile} {
         .profile {
             img {
                 max-width: 200px;

@@ -1,19 +1,24 @@
 @import "../lib/tokens.scss";
 
 header {
-    display: flex;
+    background-color: $color-header-background;
+    @include elevation(4);
     position: fixed;
     z-index: $elevation-header;
-
-    align-items: center;
     top: 0;
     left: 0;
     width: 100%;
     
-    padding: 0.5em;
+    .header-content {
+        display: flex;
+        align-items: center;
+        padding: 0.5em;
 
-    background-color: $color-header-background;
-    @include elevation(4);
+        width: 100%;
+        max-width: 1080px;
+        margin: 0 auto;
+    }
+
 
     .logo-nav {
         img {
