@@ -1,0 +1,36 @@
+aside {
+    .profile {
+        img {
+            border-radius: 50%;
+            width: 100%;
+            height: auto;
+        }
+
+        .info {
+            & > * {
+                margin: 0;
+            }
+
+            .name {
+                margin: 8px 0;
+                line-height: 1;
+            }
+            .job {
+                margin-bottom: 4px;
+            }
+        }
+    }
+
+    @media #{$breakpoint} {
+        .profile {
+            img {
+                max-width: 200px;
+            }
+
+            .info {
+                display: inline-block;
+                margin-left: 12px;
+            }
+        }
+    }
+}

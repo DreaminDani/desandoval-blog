@@ -11,6 +11,39 @@ html {
 
 body {     
     font-family: $font-paragraph;
+
+    padding: 0 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-gap: 60px;
+    align-items: start;
+
+    main {
+        grid-column: 1;
+        margin-top: 7em;
+    }
+
+    aside {
+        margin-top: 7em;
+    }
+
+    footer {
+        grid-column: 1 / auto;
+    }
+
+    @media #{$breakpoint} {
+        grid-gap: 8px;
+
+        main {
+            grid-column: 1 / span 2;
+        }
+        aside {
+            grid-row: 2;
+        }
+    }
 }
 
 h1 {
@@ -34,8 +67,4 @@ a {
     &:hover, &:focus {
         color: $color-secondary;
     }
-}
-
-main {
-    margin-top: 7em;
 }

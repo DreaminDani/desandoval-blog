@@ -1,14 +1,11 @@
 <aside>
-	<div>
-		<div>
-			<h3>LATEST POSTS</h3>
+	<section class="profile">
+		<img src="/img/profile.jpg" />
+		<div class="info">
+			<h1 class="name">Dani<br/>@d3sandoval</h1>
+			<h2 class="job">Product Designer</h2>
+			<h3 class="company">Pivotal Labs (VMware)</h3>
+			<h4 class="location">Cambridge, MA</h4>
 		</div>
-		<div>
-			<ul>
-				{{ range first 5 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-				<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-				{{ end }}
-			</ul>
-		</div>
-	</div>
+	</section>
 </aside>

@@ -15,9 +15,3 @@
   name = "portfolio"
   url = "portfolio"
   weight = 2
-
-[[main]]
-  identifier = "iam"
-  name = "I am..."
-  url = "iam"
-  weight = 4
