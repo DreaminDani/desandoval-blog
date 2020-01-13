@@ -80,3 +80,8 @@ a {
         color: $color-secondary;
     }
 }
+
+.sticky-top {
+    position: sticky;
+    top: 0;
+}

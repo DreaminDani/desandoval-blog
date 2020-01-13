@@ -1,0 +1,39 @@
+.single {
+
+    h2 {
+        font-weight: bold;
+        margin: 2.5em 0 1em 0;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    ul, ol {
+        li {
+            line-height: 1.56em;
+            margin-bottom: 0.4em;
+        }
+    }
+
+    blockquote {
+        margin-left: .5em;
+        padding-left: 1em;
+        border-left: 8px solid;
+        font-family: $font-heading;
+        font-style: italic;
+
+        & > * {
+            font-size: 1.4em;
+        }
+    }
+
+    @media #{$breakpoint-mobile} {
+        width: 90vw;
+        position: relative;
+        left: 55%;
+        right: 45%;
+        margin-left: -50vw;
+        margin-right: -50vw;
+    }
+}
