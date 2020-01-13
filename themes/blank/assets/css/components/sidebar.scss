@@ -4,6 +4,12 @@ aside {
             border-radius: 50%;
             width: 100%;
             height: auto;
+
+            // fallback for non-grid browsers
+            max-width: 200px;
+            @supports (display: grid) {
+                max-width: unset;
+            }
         }
 
         .info {
