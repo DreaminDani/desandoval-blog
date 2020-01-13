@@ -1,25 +1,35 @@
-@import "../tokens.scss";
+@import "../lib/tokens.scss";
 
 html {
     background: $color-background-dark;
-    box-sizing: border-box;
     color: $color-font;
-}
 
-*, *:before, *:after {
-    box-sizing: inherit;
+    // prettify fonts: https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 body {     
     font-family: $font-paragraph;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
     font-family: $font-heading;
+}
+
+h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    font-family: $font-heading;
+}
+
+p {
+    font-size: 0.95rem;
+    line-height: 1.5;
 }
 
 a {
     color: $color-primary;
+    text-decoration: none;
 
     &:hover, &:focus {
         color: $color-secondary;

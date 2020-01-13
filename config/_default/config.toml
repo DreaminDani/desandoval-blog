@@ -2,8 +2,6 @@ baseURL = "http://ecstatic-gates-1e8340.netlify.com"
 title = "Daniel E. Sandoval"
 theme = "blank"
 
-disableKinds = ["about"]
-
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 

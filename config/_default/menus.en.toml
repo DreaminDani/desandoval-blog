@@ -11,7 +11,13 @@
   weight = 2
 
 [[main]]
+  identifier = "portfolio"
+  name = "portfolio"
+  url = "portfolio"
+  weight = 2
+
+[[main]]
   identifier = "iam"
-  name = "I am"
+  name = "I am..."
   url = "iam"
-  weight = 3
+  weight = 4

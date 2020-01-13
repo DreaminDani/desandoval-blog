@@ -1,4 +1,4 @@
-@import "../tokens.scss";
+@import "../lib/tokens.scss";
 
 header {
     display: flex;
@@ -51,7 +51,6 @@ header {
                 font-family: $font-heading;
                 letter-spacing: 0.024rem;
                 text-transform: uppercase;
-                text-decoration: none;
             }
         }
     }

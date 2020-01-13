@@ -1,27 +1,16 @@
 +++
-title = "Daniel E. Sandoval"
+title = "About me"
 description = "Putting the human experience first. Developing solutions to make it better"
 type = "home"
 date = "2019-02-28"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+**People use digital tools everyday**. Those that are significant provide practical and navigable solutions to their users' problems. In order for user research and design to have any impact on software development, it must become directly involved with the tools and processes that developers use to build software.
 
-Hugo makes use of a variety of open source projects including:
+When designers work closely with developers and remain open to feedback, we can work together to make building a usable, consistent, and accessible interface the easiest way to develop new software.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## As a Human Experience Designer, [I connect user needs with the developer experience](/portfolio).
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+In the fall of 2014, I studied computer science, software development, and design at [AIT-Budapest](http://www.ait-budapest.com/). I was mentored by the great Ernö Rubik ([Rubik’s Cube](http://www.rubiks.com/), creator), Ernö Duda ([SOLVO BioTech](http://www.solvobiotech.com/), founder), and Gábor Bojár ([Graphisoft](http://www.graphisoft.com/), founder) to expand my international view of the user experience.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
-
-
+I graduated from University of Washington with a degree in [Human Centered Design and Engineering](https://www.hcde.washington.edu/), helped build a resilient product development process at [Discuss.io](https://www.discuss.io), and am now a Product Designer at Pivotal Labs in Cambridge, MA.
