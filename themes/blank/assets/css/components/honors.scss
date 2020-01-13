@@ -3,7 +3,7 @@
 
     > h2 {
         font-size: 2em;
-        margin: 0.67em 0;
+        margin: 0;
         margin-left: 80px;
         border-bottom: 1px solid rgba(255, 255, 255, 0.8);
         
@@ -11,15 +11,16 @@
             margin-left: 40px;
         }
     }
+    
     .honors-list {
         display: flex;
-        padding: 16px 80px;
+        padding: 0 80px;
         overflow-x: scroll;
         scroll-padding: 0 50%;
         scroll-snap-type: x mandatory;
     
         /* Horizontal Scroll Indicator */
-        background-image: linear-gradient(to right, $color-background-dark, $color-background-dark), linear-gradient(to right, $color-background-dark, $color-background-dark), linear-gradient(to right, rgba(0, 0, 20, .50), rgba(255, 255, 255, 0)), linear-gradient(to left, rgba(0, 0, 20, .50), rgba(255, 255, 255, 0));
+        background-image: linear-gradient(to right, $color-background-dark, $color-background-dark), linear-gradient(to right, $color-background-dark, $color-background-dark), linear-gradient(to right, rgba(0, 0, 20, .87), rgba(255, 255, 255, 0)), linear-gradient(to left, rgba(0, 0, 20, .87), rgba(255, 255, 255, 0));
         /* Shadows */
         /* Shadow covers */
         background-position: left center, right center, left center, right center;
@@ -31,13 +32,21 @@
         .honor-item {
             scroll-snap-align: center;
             display: inline-block;
+
             min-width: 16em;
+            padding: 2em 0;
             
             text-align: center;
     
             img {
                 height: 64px;
             }
+
+            h2 {
+                color: #fff;
+                margin: 0;
+            }
+            
         }
     }
 }
