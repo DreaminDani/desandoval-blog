@@ -31,11 +31,18 @@ aside {
         .profile {
             img {
                 max-width: 200px;
+
+                display: block;
+                float: left;
+                margin-right: 0.87em;
             }
 
             .info {
                 display: inline-block;
-                margin-left: 12px;
+
+                h1 {
+                    padding-top: 0.4em;
+                }
             }
         }
     }
