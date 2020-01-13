@@ -4,7 +4,7 @@ description: Who are you?
 date: '2017-04-02T01:37:12.384Z'
 categories: []
 keywords: []
-slug: /blog/mindful-realities-makeathon-dragon-25b3061456c2
+slug: /mindful-realities-makeathon-dragon-25b3061456c2
 ---
 
 ##  Who are you?

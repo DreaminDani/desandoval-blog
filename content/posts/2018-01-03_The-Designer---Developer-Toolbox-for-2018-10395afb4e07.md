@@ -6,7 +6,7 @@ description: >-
 date: '2018-01-03T14:01:08.806Z'
 categories: []
 keywords: []
-slug: /blog/the-designer-developer-toolbox-for-2018-10395afb4e07
+slug: /the-designer-developer-toolbox-for-2018-10395afb4e07
 ---
 
 A friend of mine just started as a [“UX Team of One”](http://rosenfeldmedia.com/books/the-user-experience-team-of-one/) (and Front-End Dev too!) at a startup. She asked me _nicely_ to put together a list of tools that I use(d) in a similar position at [my company](http://www.discuss.io).
@@ -49,7 +49,7 @@ Since it’s the end of the year, and the beginning of a new one, I figured I’
 *   [https://airbnb.design](https://airbnb.design)
 *   [http://facebook.design/](http://facebook.design/)
 *   [https://www.reallygoodux.io/](https://www.reallygoodux.io/)
-*   [http://www.designyourway.net/blog/inspiration/navigation-inspiration-for-mobile-user-interfaces-57-designs/](http://www.designyourway.net/blog/inspiration/navigation-inspiration-for-mobile-user-interfaces-57-designs/)
+*   [http://www.designyourway.net/inspiration/navigation-inspiration-for-mobile-user-interfaces-57-designs/](http://www.designyourway.net/inspiration/navigation-inspiration-for-mobile-user-interfaces-57-designs/)
 *   [https://swipefile.io](https://swipefile.io)
 *   [http://uigarage.net/](http://uigarage.net/)
 *   [https://www.thebestdesigns.com/](https://www.thebestdesigns.com/)
@@ -71,7 +71,7 @@ Since it’s the end of the year, and the beginning of a new one, I figured I’
 *   [https://medium.com/design-voices/the-pen-is-mightier-than-the-laptop-2d057d3d5b7d](https://medium.com/design-voices/the-pen-is-mightier-than-the-laptop-2d057d3d5b7d) (please don’t ever use myBalsamiq)
 *   [https://blog.prototypr.io/a-framework-for-creating-a-predictable-and-harmonious-spacing-system-8eee8aaf773c?gi=31eb83426ec](https://blog.prototypr.io/a-framework-for-creating-a-predictable-and-harmonious-spacing-system-8eee8aaf773c?gi=31eb83426ec)
 *   [https://blog.marvelapp.com/can-master-design-must-first-master-fundamentals/](https://blog.marvelapp.com/can-master-design-must-first-master-fundamentals/)
-*   [http://whatusersdo.com/blog/how-psychology-principles-are-used-in-ux-design/](http://whatusersdo.com/blog/how-psychology-principles-are-used-in-ux-design/)
+*   [http://whatusersdo.com/how-psychology-principles-are-used-in-ux-design/](http://whatusersdo.com/how-psychology-principles-are-used-in-ux-design/)
 *   [https://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php](https://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php)
 *   [http://gretelny.com/work/netflix/](http://gretelny.com/work/netflix/)
 

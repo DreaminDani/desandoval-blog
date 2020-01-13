@@ -6,7 +6,7 @@ description: >-
 date: '2017-06-25T18:59:30.144Z'
 categories: []
 keywords: []
-slug: /blog/reflections-on-ux-from-a-low-vision-designer-660044a14ee5
+slug: /reflections-on-ux-from-a-low-vision-designer-660044a14ee5
 ---
 
 Last week, I was digging through notes and assignments from my time spent at the University Washington, where I learned Human Centered Design and Engineering from some of the best UX practitioners and researchers in the Pacific Northwest. In one of the folders, named “User Experience Design”, I found a final reflection paper that I will never forget.

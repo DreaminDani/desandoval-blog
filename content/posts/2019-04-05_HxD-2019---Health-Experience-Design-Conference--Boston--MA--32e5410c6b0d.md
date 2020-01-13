@@ -7,7 +7,7 @@ date: '2019-04-05T13:19:14.328Z'
 categories: []
 keywords: []
 slug: >-
-  /blog/hxd-2019-health-experience-design-conference-boston-ma-32e5410c6b0d
+  /hxd-2019-health-experience-design-conference-boston-ma-32e5410c6b0d
 ---
 
 Every time I go to a conference, I do my best to summarize the most important things I learned. This year, I started the conference season by volunteering at Mad\*Pow’s Health Experience Design Conference (HxD).

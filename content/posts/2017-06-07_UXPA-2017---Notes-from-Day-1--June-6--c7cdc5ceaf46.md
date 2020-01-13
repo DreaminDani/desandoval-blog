@@ -6,7 +6,7 @@ description: >-
 date: '2017-06-07T02:24:48.918Z'
 categories: []
 keywords: []
-slug: /blog/uxpa-2017-notes-from-day-1-june-6-c7cdc5ceaf46
+slug: /uxpa-2017-notes-from-day-1-june-6-c7cdc5ceaf46
 ---
 
 As inspired by Scott Berkun’s _[Min / Max Note Taking for Conferences](http://scottberkun.com/2014/min-max-note-taking/)_, I’d like to summarize a few key learnings from today’s excellent speakers at the [User Experience Professional Association (UXPA) Conference](http://uxpa2017.org) — currently taking place in Toronto, ON (June 5–8).

@@ -6,7 +6,7 @@ description: >-
 date: '2017-06-08T02:15:56.537Z'
 categories: []
 keywords: []
-slug: /blog/uxpa-2017-notes-from-day-2-june-7-7bd94773dd3a
+slug: /uxpa-2017-notes-from-day-2-june-7-7bd94773dd3a
 ---
 
 Yesterday, I posted my 5-point summary of every talk I attended at the [User Experience Professional Association (UXPA) Conference](http://uxpa2017.org) — currently taking place in Toronto, ON (June 5–8). **Today, I will be sharing my notes from Day 2.**

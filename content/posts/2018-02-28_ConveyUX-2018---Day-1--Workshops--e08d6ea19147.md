@@ -6,7 +6,7 @@ description: >-
 date: '2018-02-28T05:37:06.018Z'
 categories: []
 keywords: []
-slug: /blog/conveyux-2018-day-1-workshops-e08d6ea19147
+slug: /conveyux-2018-day-1-workshops-e08d6ea19147
 ---
 
 Last year, I spent time at the UXPA conference in Toronto and did a series of posts that highlighted the talks and workshops I attended ([Day 1](https://blog.desandoval.net/uxpa-2017-notes-from-day-1-june-6-c7cdc5ceaf46), [Day 2](https://blog.desandoval.net/uxpa-2017-notes-from-day-2-june-7-7bd94773dd3a) and [Day 3](https://blog.desandoval.net/uxpa-2017-notes-from-day-3-june-8-654d26a27673)). This year, for ConveyUX 2018, I’ll be doing the same with **a 5-point summary of each talk, along with any pictures of slides or internet references that I found particularly useful.**

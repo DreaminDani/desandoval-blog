@@ -5,7 +5,7 @@ date: '2015-06-11T22:03:42.000Z'
 categories: []
 keywords: []
 slug: >-
-  /blog/hack-your-own-practice-tests-on-canvas-lms-using-console-jquery-636dfeb7c38c
+  /hack-your-own-practice-tests-on-canvas-lms-using-console-jquery-636dfeb7c38c
 ---
 
 As useful as the [Canvas Learning Management System](http://www.canvaslms.com/) is for allowing professors to give self-conducted quizzes to their students, there is a key feature that is missing from the examination system. This feature is the ability for students to take the quiz over after it has been closed and graded.
