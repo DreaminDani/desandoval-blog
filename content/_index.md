@@ -1,80 +1,27 @@
----
-header:
-  - type: text
-    height: 200
-    paddingX: 50
-    paddingY: 0
-    align: center
-    title:
-      - HUGO
-    subtitle:
-      - The world’s fastest framework for building websites
-    titleFontSize: 44
-    subtitleFontSize: 16
-    spaceBetweenTitleSubtitle: 20
-  
-  - type: img
-    imageSrc: img/header/background.jpg
-    imageSize: cover
-    imageRepeat: no-repeat
-    imagePosition: center
-    height: 235
-    paddingX: 50
-    paddingY: 0
-    align: center
-    title:
-      -
-    subtitle:
-      -
-    titleFontSize: 44
-    subtitleFontSize: 16
-    spaceBetweenTitleSubtitle: 20
++++
+title = "Daniel E. Sandoval"
+description = "Putting the human experience first. Developing solutions to make it better"
+type = "home"
+date = "2019-02-28"
++++
 
-  - type: slide
-    height: 235
-    slide:
-      - paddingX: 50
-        paddingY: 0
-        align: left
-        imageSrc: img/header/background.jpg
-        imageSize: cover
-        imageRepeat: no-repeat
-        imagePosition: center
-        title:
-          - header title1
-        subtitle:
-          - header subtitle1
-        titleFontSize: 44
-        subtitleFontSize: 16
-        spaceBetweenTitleSubtitle: 20
+Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-      - paddingX: 50
-        paddingY: 0
-        align: center
-        imageSrc: img/header/background.jpg
-        imageSize: cover
-        imageRepeat: no-repeat
-        imagePosition: center
-        title:
-          - header title2
-        subtitle:
-          - header subtitle2
-        titleFontSize: 44
-        subtitleFontSize: 16
-        spaceBetweenTitleSubtitle: 20
+Hugo makes use of a variety of open source projects including:
 
-      - paddingX: 50
-        paddingY: 0
-        align: right
-        imageSrc: img/header/background.jpg
-        imageSize: cover
-        imageRepeat: no-repeat
-        imagePosition: center
-        title:
-          - header title3
-        subtitle:
-          - header subtitle3
-        titleFontSize: 44
-        subtitleFontSize: 16
-        spaceBetweenTitleSubtitle: 20
----
+* https://github.com/russross/blackfriday
+* https://github.com/alecthomas/chroma
+* https://github.com/muesli/smartcrop
+* https://github.com/spf13/cobra
+* https://github.com/spf13/viper
+
+Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+
+Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+
+Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+
+Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
+
+
