@@ -1,10 +1,12 @@
 @import "lib/normalize.scss";
+@import "lib/syntax.scss";
 
 @import "layout/index.scss";
 @import "layout/single.scss";
 
 @import "components/header.scss";
 @import "components/honors.scss";
+@import "components/image-grid.scss";
 @import "components/pagination.scss";
 @import "components/sidebar.scss";
 @import "components/summary.scss";

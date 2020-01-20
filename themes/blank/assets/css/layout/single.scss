@@ -1,5 +1,4 @@
 .single {
-
     &>div>p:first-child {
         font-size: 1.38em;
     }
@@ -10,7 +9,11 @@
     }
 
     img {
-        width: 100%;
+        max-width: 100%;
+        max-height: 500px;
+        width: auto;
+        display: block;
+        margin: 0 auto;
     }
 
     ul, ol {

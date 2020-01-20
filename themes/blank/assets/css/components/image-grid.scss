@@ -1,0 +1,51 @@
+@import "../lib/tokens.scss";
+
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+
+  
+  &.two {
+    p {
+      width: 50%;
+    }
+  
+    @media #{$breakpoint-mobile} {
+      p {
+        width: 100%;
+      }
+    }
+  }
+
+  
+  &.three {
+    p {
+      width: 33%;
+    }
+  
+    @media #{$breakpoint-mobile} {
+      p {
+        width: 100%;
+      }
+    }
+  }
+
+  &.four {
+    p {
+      width: 25%;
+    }
+  
+    @media #{$breakpoint-tablet} {
+      p {
+        width: 50%;
+      }
+    }
+  
+    @media #{$breakpoint-mobile} {
+      p {
+        width: 100%;
+      }
+    }
+  }
+}
