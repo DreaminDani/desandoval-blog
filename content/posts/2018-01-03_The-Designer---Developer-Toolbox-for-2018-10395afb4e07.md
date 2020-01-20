@@ -7,6 +7,7 @@ date: '2018-01-03T14:01:08.806Z'
 categories: []
 keywords: []
 slug: /the-designer-developer-toolbox-for-2018-10395afb4e07
+canonicalUrl: https://blog.prototypr.io/the-designer-developer-toolbox-for-2018-10395afb4e07
 ---
 
 A friend of mine just started as a [“UX Team of One”](http://rosenfeldmedia.com/books/the-user-experience-team-of-one/) (and Front-End Dev too!) at a startup. She asked me _nicely_ to put together a list of tools that I use(d) in a similar position at [my company](http://www.discuss.io).

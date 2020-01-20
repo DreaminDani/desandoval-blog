@@ -48,6 +48,12 @@
 	{{ with .OutputFormats.Get "RSS" -}}
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
+
+	{{ if .Params.canonicalUrl }}
+	<link rel="canonical" href="{{ .Params.canonicalUrl }}">
+	{{ else }}
+	<link rel="canonical" href="{{ .Permalink }}">
+	{{ end }}
 </head>
 
 <body id="{{ .Type }}">
