@@ -1,5 +1,9 @@
 .single {
 
+    &>div>p:first-child {
+        font-size: 1.38em;
+    }
+
     h2 {
         font-weight: bold;
         margin: 2.5em 0 1em 0;

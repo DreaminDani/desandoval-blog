@@ -10,30 +10,30 @@
 	<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.author }}
 	<meta name="author" content="{{ . }}">{{ end }}
-	
+
 	{{- $sassOptions := "" -}}
 
 	{{- if (eq (getenv "HUGO_ENV") "production") -}}
-		{{- $sassOptions = merge $sassOptions (dict "outputStyle" "compressed") -}}
+	{{- $sassOptions = merge $sassOptions (dict "outputStyle" "compressed") -}}
 	{{- else -}}
-		{{- $sassOptions = merge $sassOptions (dict "enableSourceMap" true) -}}
+	{{- $sassOptions = merge $sassOptions (dict "enableSourceMap" true) -}}
 	{{- end -}}
 
 	{{- $style := resources.Get "css/main.scss" | toCSS $sassOptions -}}
 
 	{{- if (eq (getenv "HUGO_ENV") "production") -}}
-		{{- $style = $style | postCSS | fingerprint -}}
+	{{- $style = $style | postCSS | fingerprint -}}
 	{{- end }}
 
 	<link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}">
 	<link href="https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Merriweather:400,700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
 	{{ with .OutputFormats.Get "RSS" -}}
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
 </head>
 
-<body>
+<body id="{{ .Type }}">
 	{{ partial "header" . }}
 	{{ block "main" . }}{{ end }}
 	{{ partial "footer" . }}

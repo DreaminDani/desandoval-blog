@@ -1,13 +1,15 @@
 {{ define "main" }}
-<main aria-role="main">
-	<h1>{{.Title}}</h1>
-	{{ with .Params.subtitle }}
-	<span class="subtitle">{{.}}</span>
-	{{ end }}
-	<div class="homepage-content">
-		{{.Content}}
-	</div>
-</main>
-{{ partial "sidebar.html" . }}
+<div class="max-width-content">
+	<main aria-role="main">
+		<h1>{{.Title}}</h1>
+		{{ with .Params.subtitle }}
+		<span class="subtitle">{{.}}</span>
+		{{ end }}
+		<div class="homepage-content">
+			{{.Content}}
+		</div>
+	</main>
+	{{ partial "sidebar.html" . }}
+</div>
 {{ partial "honors.html" . }}
 {{ end }}

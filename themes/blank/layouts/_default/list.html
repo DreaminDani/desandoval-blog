@@ -1,4 +1,5 @@
 {{ define "main" }}
+<div class="max-width-content">
 	<main>
 		{{ if or .Title .Content }}
 		<div>
@@ -8,11 +9,12 @@
 		{{ end }}
 
 		{{ range .Paginator.Pages }}
-			{{ .Render "summary" }}
+		{{ .Render "summary" }}
 		{{ end }}
 		{{ partial "pagination.html" . }}
 	</main>
-<div class="sticky-top">
-	{{ partial "sidebar.html" . }}
+	<div class="sticky-top">
+		{{ partial "sidebar.html" . }}
+	</div>
 </div>
 {{ end }}

@@ -9,53 +9,55 @@ html {
     -moz-osx-font-smoothing: grayscale;
 }
 
-body {     
+body {
     font-family: $font-paragraph;
+    font-size: 1.05rem;
 
-    padding: 0 40px;
-    max-width: 1080px;
-    margin: 0 auto;
+    &.max-width-content, .max-width-content {
+        padding: 0 40px;
+        max-width: 1080px;
+        margin: 0 auto;
 
-    display: grid;
-    grid-template-columns: 3fr 1fr;
-    grid-gap: 60px;
-    align-items: start;
-
-    main {
-        grid-column: 1;
-        margin-top: 7em;
-    }
-
-    aside {
-        margin-top: 7em;
-    }
-
-    footer {
-        grid-column: 1 / auto;
-    }
-
-    section.honors {
-        grid-column: 1 / span 2;
-
-        width: 100vw;
-        position: relative;
-        left: 50%;
-        right: 50%;
-        margin-left: -50vw;
-        margin-right: -50vw;
-    }
-
-    @media #{$breakpoint-mobile} {
-        grid-gap: 8px;
+        display: grid;
+        grid-template-columns: 3fr 1fr;
+        grid-gap: 60px;
+        align-items: start;
 
         main {
-            grid-column: 1 / span 2;
+            grid-column: 1;
+            margin-top: 7em;
         }
+
         aside {
-            margin-top: 24px;
-            grid-row: 2;
+            margin-top: 7em;
+        }
+
+        @media #{$breakpoint-mobile} {
+            grid-gap: 8px;
+
+            main {
+                grid-column: 1 / span 2;
+            }
+            aside {
+                margin-top: 2em;
+                grid-row: 2;
+            }
         }
     }
+
+    article {
+        h1 {
+            margin-bottom: 0.25em;
+        }
+
+        time {
+            opacity: 0.8;
+        }
+    }
+}
+
+footer {
+    padding: 1em 0 0 0.5em;
 }
 
 h1 {
@@ -68,7 +70,6 @@ h2, h3, h4, h5, h6 {
 }
 
 p {
-    font-size: 0.95rem;
     line-height: 1.5;
 }
 

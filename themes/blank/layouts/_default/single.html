@@ -1,4 +1,5 @@
 {{ define "main" }}
+<div class="max-width-content">
 	<main>
 		<article class="single">
 			<h1>{{ .Title }}</h1>
@@ -22,7 +23,8 @@
 			{{ end }}
 		</article>
 	</main>
-<div class="sticky-top">
-	{{ partial "sidebar.html" . }}
+	<div class="sticky-top">
+		{{ partial "sidebar.html" . }}
+	</div>
 </div>
 {{ end }}
