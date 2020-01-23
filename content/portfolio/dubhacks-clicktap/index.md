@@ -4,7 +4,7 @@ description: Social media game prototype for the furious tapper
 date: '2015-10-01T00:00:00.000Z'
 keywords: ['UI Design', 'UX', 'Game Design', 'Social Media', 'Prototyping', 'Hackathon', 'InVision', 'Sketch']
 categories: ['Hackathon']
-topImage: ![IMAGE](C5C1EAB605ABCDE166CE9627E9692DC1.jpg)
+images: ['C5C1EAB605ABCDE166CE9627E9692DC1.jpg']
 ---
 
 In the fall of 2015, the University of Washington held [the DubHacks hackathon](http://15f.dubhacks.co/). DubHacks is the largest collegiate hackathon in the Pacific Northwest where "top college hackers will gather at the University of Washington to build the next generation of innovative software and hardware hacks."

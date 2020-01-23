@@ -4,7 +4,7 @@ description: A transportation user research project
 date: '2014-03-01T00:00:00.000Z'
 keywords: ['Research', 'Technical Communication', 'Transcription', 'User Research', 'Workflow', 'Descriptive', 'Prescriptive']
 categories: ['Research']
-topImage: ![IMAGE](1FC310945F6CAA9BC638ACC39A06A8AA.jpg)
+images: ['1FC310945F6CAA9BC638ACC39A06A8AA.jpg']
 ---
 
 This research report was an assignment for **HCDE 313: Introduction to User Research, Winter 2014**. The goals of this course were to:

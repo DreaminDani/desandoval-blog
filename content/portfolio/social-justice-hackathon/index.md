@@ -4,7 +4,7 @@ description: Co-organized and sole designer for a 2-day legal technology event
 date: '2015-11-01T00:00:00.000Z'
 keywords: ['Graphic Design', 'Event Organization', 'Event Design', 'Presentation', 'Mentorship']
 categories: ['Design']
-topImage: ![IMAGE](65FD89CB2345CD29C0CE42E8163E7E41.jpg)
+images: ['65FD89CB2345CD29C0CE42E8163E7E41.jpg']
 ---
 
 In the summer of 2015, [Miguel Willis](http://www.nationaljurist.com/national-jurist-magazine/law-student-year-miguel-willis-seattle-university) approached me to ask if I would be interested in helping him host the Social Justice Hackathon - an event that he was fundraising for to "unite the legal and tech communities to create innovative solutions to American access to justice."

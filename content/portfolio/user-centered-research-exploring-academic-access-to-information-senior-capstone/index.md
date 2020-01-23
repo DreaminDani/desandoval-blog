@@ -4,7 +4,7 @@ description: HCDE Capstone research project exploring academic access to informa
 date: '2015-07-01T00:00:00.000Z'
 keywords: ['Agile', 'Data Analysis', 'Design', 'Formatting', 'Research', 'Prescriptive', 'Technical Communication', 'User Research', 'Video', 'Poster', 'Audio/Video Production']
 categories: ['Research']
-topImage: ![IMAGE](6759C6EE13095E635FE5AF425A9FAFD2.jpg)
+images: ['6759C6EE13095E635FE5AF425A9FAFD2.jpg']
 ---
 
 _From my executive summary at: [books.desandoval.net](http://books.desandoval.net/)_
