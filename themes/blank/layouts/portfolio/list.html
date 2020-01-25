@@ -1,18 +1,17 @@
 {{ define "main" }}
-<div class="portfolio">
+<div class="portfolio-list">
+	{{ if or .Title .Content }}
+	<div>
+		{{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+		{{ with .Content }}<div>{{ . }}</div>{{ end }}
+	</div>
+	{{ end }}
 	<main>
-		{{ if or .Title .Content }}
-		<div>
-			{{ with .Title }}<h1>{{ . }}</h1>{{ end }}
-			{{ with .Content }}<div>{{ . }}</div>{{ end }}
-		</div>
-		{{ end }}
-
-		{{ range .Paginator.Pages }}
+		{{ range (.Paginator 9).Pages }}
 		{{ .Render "summary" }}
 		{{ end }}
-		{{ partial "pagination.html" . }}
 	</main>
+	{{ partial "pagination.html" . }}
 	{{ partial "sidebar.html" . }}
 </div>
 {{ end }}

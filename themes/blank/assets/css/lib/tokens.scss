@@ -1,5 +1,6 @@
 $breakpoint-tablet: "screen and (max-width: 1256px)";
 $breakpoint-mobile: "screen and (max-width: 900px)";
+$breakpoint-xxs: "screen and (max-width: 400px)";
 
 // START Fonts
 $font-heading: 'Raleway', sans-serif;
@@ -17,6 +18,12 @@ $color-secondary: #db899a;
 // START Elevations
 $elevation-header: 100;
 // END Elevations
+
+@mixin max-width-layout {
+    padding: 0 40px;
+    max-width: 1080px;
+    margin: 0 auto;
+}
 
 // START Box Shadows
 @mixin elevation($level) {

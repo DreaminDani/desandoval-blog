@@ -4,7 +4,7 @@ description: The weather gods must be crazy
 date: '2013-11-01T00:00:00.000Z'
 keywords: ['Python', 'Interactive', 'CLI', 'API']
 categories: ['Programming']
-images: ['B6AED7F58F3AA4D605742B037C8B78F2.jpg']
+images: ['portfolio/forecast/B6AED7F58F3AA4D605742B037C8B78F2.jpg']
 ---
 
 The forecast program is a little project I worked on to see what I can do in an hour with access to an API or two. It was made for the class

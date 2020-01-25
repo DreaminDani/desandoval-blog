@@ -4,7 +4,7 @@ description: Location-aware personal messaging for Android
 date: '2014-12-01T00:00:00.000Z'
 keywords: ['Design', 'Android', 'Mobile', 'AIT', 'Parse', 'Java', 'TripIt', 'API']
 categories: ['Programming']
-images: ['FF1BCDD8EE6A1465BFE89FF06346B1C5.jpg']
+images: ['portfolio/android-app-imhere/FF1BCDD8EE6A1465BFE89FF06346B1C5.jpg']
 ---
 
 ### Location-aware messaging to automatically notify those closest to you that you’ve made it somewhere safely

@@ -4,7 +4,7 @@ description: Solving real-world problems with rapid prototyping!
 date: '2015-04-01T00:00:00.000Z'
 keywords: ['Agile', 'Art', 'Design', 'Modeling', 'Prototyping', 'Technical Communication', 'User Research']
 categories: ['Prototyping']
-images: ['EC7FBF350D33C7EFD0889F1E3F3B6BB1.jpg']
+images: ['portfolio/rapid-prototyping-is-a-process/EC7FBF350D33C7EFD0889F1E3F3B6BB1.jpg']
 ---
 
 [Check out the blog](http://protopro.tumblr.com) which features:

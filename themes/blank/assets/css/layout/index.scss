@@ -14,10 +14,8 @@ body {
     font-size: 1.05rem;
 
     &.max-width-content, .max-width-content {
-        padding: 0 40px;
-        max-width: 1080px;
-        margin: 0 auto;
-
+        @include max-width-layout();
+        
         display: grid;
         grid-template-columns: 3fr 1fr;
         grid-gap: 60px;
@@ -63,6 +61,12 @@ footer {
 
 h1 {
     font-family: $font-heading;
+}
+
+@media #{$breakpoint-xxs} {
+    h1 {
+        font-size: 1.5em;
+    }
 }
 
 h2, h3, h4, h5, h6 {

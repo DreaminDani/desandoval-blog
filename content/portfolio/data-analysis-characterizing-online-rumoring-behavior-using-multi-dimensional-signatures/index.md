@@ -4,7 +4,7 @@ description: Characterizing Online Rumoring Behavior Using Multi-Dimensional Sig
 date: '2015-04-01T00:00:00.000Z'
 keywords: ['Big Data', 'Data Analysis', 'Research', 'Descriptive', 'Python', 'Technical Communication', 'User Research']
 categories: ['Research']
-images: ['F4541CD3A592A8BCEE1F376DCF2611E9.jpg']
+images: ['portfolio/data-analysis-characterizing-online-rumoring-behavior-using-multi-dimensional-signatures/F4541CD3A592A8BCEE1F376DCF2611E9.jpg']
 ---
 
 Between January-June 2014, I had the pleasure of participating in Kate Starbird’s Directed Research Group, [“Researching at the Intersection of Social Media and Disasters: Tracing the Spread of Misinformation after the 2013 Boston Marathon Bombing”](https://www.hcde.washington.edu/research/archives#boston). Together, we used a series of qualitative techniques to generate actionable data regarding rumors in social media. Specifically, we targeted twitter users during the Boston Marathon.

@@ -4,7 +4,7 @@ description: Designing an accessible home entry device
 date: '2015-03-01T00:00:00.000Z'
 keywords: ['Agile', 'Design', 'Information Architecture', 'Management', 'Presentation', 'Project Management', 'Prototyping', 'Technical Communication', 'User Research']
 categories: ['Design']
-images: ['9DB3616A39B78F84A02855E16C9B2E5B.jpg']
+images: ['portfolio/user-centered-design-the-key-chainz/9DB3616A39B78F84A02855E16C9B2E5B.jpg']
 ---
 
 ## About The Project

@@ -1,13 +1,11 @@
 <article class="summary">
-	<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-	<time>{{ .Date.Format "January 2006" }}</time>
-	<div class="text">
+	<a href="{{ .Permalink }}" class="image-header">
 		{{- with $.Params.images -}}
-		<img src="{{ index . 0 | relURL }}"/>
-		Try: https://github.com/hashicorp/consul-template/issues/267#issuecomment-97452011
+		<img src="{{ index . 0 | relURL }}" />
 		{{- end -}}
-		{{ if .Truncated }}
-		<a href="{{ .Permalink }}">Read more...</a>
-		{{ end }}
-	</div>
+		<h1>{{ .Title }}</h1></a>
+	<time>{{ .Date.Format "January 2006" }}</time>
+	<p class="text">
+		{{ .Description }}
+	</p>
 </article>

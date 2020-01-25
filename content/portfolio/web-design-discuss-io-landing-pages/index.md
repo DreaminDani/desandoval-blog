@@ -4,7 +4,7 @@ description: A revamp of the marketing website to promote new support and login 
 date: '2015-03-01T00:00:00.000Z'
 keywords: ['Design', 'Wordpress', 'Information Architecture', 'Marketing', 'Mobile', 'Technical Communication', 'Web']
 categories: ['Design']
-images: ['CFA9F6840037FF37C0870DD2F1F8FF33.jpg']
+images: ['portfolio/web-design-discuss-io-landing-pages/CFA9F6840037FF37C0870DD2F1F8FF33.jpg']
 ---
 
 First impressions are important, especially when it comes to presenting your value to a potential customer. During my internship at Discuss.io, I worked with the sales team and project manager to develop a series of landing pages:

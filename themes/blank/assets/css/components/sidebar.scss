@@ -1,49 +1,60 @@
-aside {
+$imgwidth: 200px;
+
+@mixin non-grid-sidebar {
     .profile {
         img {
-            border-radius: 50%;
-            width: 100%;
-            height: auto;
+            max-width: $imgwidth;
+            width: 40%;
 
-            // fallback for non-grid browsers
-            max-width: 200px;
-            @supports (display: grid) {
-                max-width: unset;
-            }
+            display: block;
+            float: left;
+            margin-right: 0.87em;
         }
 
         .info {
-            & > * {
-                margin: 0;
-            }
+            display: inline-block;
 
-            .name {
-                margin: 8px 0;
-                line-height: 1;
-            }
-            .job {
-                margin-bottom: 4px;
+            h1 {
+                padding-top: 0.4em;
             }
         }
     }
+}
 
-    @media #{$breakpoint-mobile} {
-        .profile {
-            img {
-                max-width: 200px;
+.profile {
+    img {
+        border-radius: 50%;
+        width: 100%;
+        height: auto;
 
-                display: block;
-                float: left;
-                margin-right: 0.87em;
-            }
-
-            .info {
-                display: inline-block;
-
-                h1 {
-                    padding-top: 0.4em;
-                }
-            }
+        // fallback for non-grid browsers
+        max-width: $imgwidth;
+        @supports (display: grid) {
+            max-width: unset;
         }
     }
+
+    .info {
+        & > * {
+            margin: 0;
+        }
+
+        .name {
+            margin: 8px 0;
+            line-height: 1;
+        }
+        .job {
+            margin-bottom: 4px;
+        }
+    }
+}
+
+// smaller screensizes need a float-style layout
+@media #{$breakpoint-mobile} {
+    @include non-grid-sidebar();
+}
+
+// override grid styles for non-grid layouts
+.portfolio-list {
+    @include non-grid-sidebar();
 }

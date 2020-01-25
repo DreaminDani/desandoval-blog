@@ -1,10 +1,10 @@
 ---
-title: Zillow `#HackHousing` Hackathon - Section8Connect
+title: '#HackHousing Section8Connect'
 description: HUD housing finder for section 8 applicants
 date: '2015-02-01T00:00:00.000Z'
 keywords: ['Agile', 'Big Data', 'Heroku', 'Data Analysis', 'Design', 'Hackathon', 'Project Management', 'Presentation']
 categories: ['Hackathon']
-images: ['A9AC56AAFFF70291594ABB161E05752E.jpg']
+images: ['portfolio/zillow-hackhousing-section8connect/A9AC56AAFFF70291594ABB161E05752E.jpg']
 ---
 
 In February, I had the pleasure of leading a development team at Zillow’s #HackHousing Hackathon. As the project manager and design director, I gathered four other team-mates to come up with the application “section8connect”.

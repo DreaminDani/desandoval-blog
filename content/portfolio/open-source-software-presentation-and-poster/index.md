@@ -4,7 +4,7 @@ description: A Presentation for Technical Communication
 date: '2014-03-01T00:00:00.000Z'
 keywords: ['Design', 'Formatting', 'Technical Communication', 'Powerpoint', 'Document Design']
 categories: ['Design']
-images: ['F6AC3D3FC7AC64F24FAA4BB5A1510AFF.jpg']
+images: ['portfolio/open-source-software-presentation-and-poster/F6AC3D3FC7AC64F24FAA4BB5A1510AFF.jpg']
 ---
 
 These presentations were an assignment for **HCDE 231 Introduction to Technical Communication.** The goal of this course was to “examine[] fundamentals of research and presenting technical information for various audiences and purposes. Individually and in teams, students learn to construct documents and presentations, following conventions of oral, written, and visual communication. Assignments are framed around ethical and sustainable engineering practices.”

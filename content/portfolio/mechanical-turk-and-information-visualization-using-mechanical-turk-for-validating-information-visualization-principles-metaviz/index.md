@@ -4,7 +4,7 @@ description: An information visualization tool to explore the ideal information 
 date: '2015-03-01T00:00:00.000Z'
 keywords: ['Big Data', 'Data Analysis', 'Design', 'Information Visualization', 'Project Management', 'Prototyping', 'Tableau', 'User Research', 'Workflow']
 categories: ['Research']
-images: ['912641FC992949FC0E503E0EBBB94EFB.jpg']
+images: ['portfolio/mechanical-turk-and-information-visualization-using-mechanical-turk-for-validating-information-visualization-principles-metaviz/912641FC992949FC0E503E0EBBB94EFB.jpg']
 ---
 
 In the class **HCDE 411: Information Visualization,** I had the pleasure of working with three other Human Centered Design and Engineering students to create an interactive visualization.

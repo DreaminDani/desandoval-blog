@@ -4,7 +4,7 @@ description: An SMS/Web Application
 date: '2013-01-12T00:00:00.000Z'
 keywords: ['Google App Engine', 'Big Data', 'Mobile', 'SMS', 'Python', 'Twilio', 'Web']
 categories: ['Programming']
-images: ['CF4D39BFE984A622CCF1BEA3AC455FC3.jpg']
+images: ['portfolio/a-better-uw-alert-system/CF4D39BFE984A622CCF1BEA3AC455FC3.jpg']
 ---
 
 # The Problem
