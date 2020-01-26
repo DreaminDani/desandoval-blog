@@ -1,0 +1,8 @@
+@import "../lib/tokens.scss";
+
+body .list-layout {
+  @media #{$breakpoint-mobile} {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+}

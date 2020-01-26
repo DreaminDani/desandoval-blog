@@ -36,6 +36,10 @@ body {
             main {
                 grid-column: 1 / span 2;
             }
+            aside, .sticky-top {
+                grid-column: 1 / span 2;
+            }
+
             aside {
                 margin-top: 2em;
                 grid-row: 2;
@@ -65,7 +69,7 @@ h1 {
 
 @media #{$breakpoint-xxs} {
     h1 {
-        font-size: 1.5em;
+        font-size: 1.7em;
     }
 }
 

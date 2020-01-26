@@ -7,7 +7,7 @@
 
     img {
       height: 124px;
-      width: 124px;
+      width: 124px !important; // required for some mobile devices
     }
 
     a.image-header {
@@ -22,11 +22,6 @@
 
     time {
       flex: 1 100%;
-      text-align: right;
-    }
-
-    p {
-      margin: 0;
     }
   }
 }
@@ -42,6 +37,10 @@
 
   @include non-grid-layout();
 
+  .summary .text {
+    font-size: 1.2em;
+  }
+
   @supports (display: grid) {
 
     // some fallback resets
@@ -50,12 +49,8 @@
         display: initial;
   
         h1 {
-          margin: 0.67em 0;
+          margin: 0.67em 0 0 0;
         }
-      }
-  
-      time {
-        text-align: left;
       }
     }
 
@@ -70,7 +65,7 @@
         width: 100%;
         
         img {
-          width: 100%;
+          width: 100% !important;
           height: 200px;
           object-fit: cover;
           border-radius: 16px;
