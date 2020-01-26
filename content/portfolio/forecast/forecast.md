@@ -2,7 +2,7 @@
 title: forecast.py
 description: The weather gods must be crazy
 date: '2013-11-01T00:00:00.000Z'
-keywords: ['Python', 'Interactive', 'CLI', 'API']
+tags: ['Python', 'Interactive', 'CLI', 'API']
 categories: ['Programming']
 images: ['portfolio/forecast/B6AED7F58F3AA4D605742B037C8B78F2.jpg']
 ---

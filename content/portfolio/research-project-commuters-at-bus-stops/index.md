@@ -2,7 +2,7 @@
 title: Commuters at Bus Stops
 description: A transportation user research project
 date: '2014-03-01T00:00:00.000Z'
-keywords: ['Research', 'Technical Communication', 'Transcription', 'User Research', 'Workflow', 'Descriptive', 'Prescriptive']
+tags: ['Research', 'Technical Communication', 'Transcription', 'User Research', 'Workflow', 'Descriptive', 'Prescriptive']
 categories: ['Research']
 images: ['portfolio/research-project-commuters-at-bus-stops/1FC310945F6CAA9BC638ACC39A06A8AA.jpg']
 ---

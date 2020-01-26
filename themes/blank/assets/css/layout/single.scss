@@ -3,6 +3,10 @@
     padding-right: 16px !important;
 
     main>article {
+        .categories {
+            margin-top: 0.4em;
+        }
+        
         &>div>p:first-child {
             font-size: 1.38em;
         }

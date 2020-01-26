@@ -2,7 +2,7 @@
 title: Discuss.IO Landing Pages
 description: A revamp of the marketing website to promote new support and login features
 date: '2015-03-01T00:00:00.000Z'
-keywords: ['Design', 'Wordpress', 'Information Architecture', 'Marketing', 'Mobile', 'Technical Communication', 'Web']
+tags: ['Design', 'Wordpress', 'Information Architecture', 'Marketing', 'Mobile', 'Technical Communication', 'Web']
 categories: ['Design']
 images: ['portfolio/web-design-discuss-io-landing-pages/CFA9F6840037FF37C0870DD2F1F8FF33.jpg']
 ---

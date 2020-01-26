@@ -2,7 +2,6 @@
 title: Sketch App — A (better) responsive button using Symbols
 description: Using Symbol Overrides to pin/stretch/edit globally
 date: '2017-06-17T23:16:14.995Z'
-categories: []
 keywords: []
 slug: /sketch-app-a-better-responsive-button-using-symbols-53df1b61a47a
 ---

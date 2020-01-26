@@ -2,7 +2,7 @@
 title: Discuss.IO Video Tutorials
 description: Empowering self-learning of the Discuss.io platform
 date: '2014-09-01T00:00:00.000Z'
-keywords: ['Design', 'Discuss.io', 'Marketing', 'Documentation', 'Technical Communication', 'Video', 'Web', 'Audio/Video Production']
+tags: ['Design', 'Discuss.io', 'Marketing', 'Documentation', 'Technical Communication', 'Video', 'Web', 'Audio/Video Production']
 categories: ['Design']
 images: ['portfolio/web-design-content-discuss-io-video-tutorials/A417335D1CDCB802A004051F8AF983CB.jpg']
 ---

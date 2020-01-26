@@ -2,7 +2,7 @@
 title: Seattle's First Social Justice Hackathon
 description: Co-organized and sole designer for a 2-day legal technology event
 date: '2015-11-01T00:00:00.000Z'
-keywords: ['Graphic Design', 'Event Organization', 'Event Design', 'Presentation', 'Mentorship']
+tags: ['Graphic Design', 'Event Organization', 'Event Design', 'Presentation', 'Mentorship']
 categories: ['Design']
 images: ['portfolio/social-justice-hackathon/65FD89CB2345CD29C0CE42E8163E7E41.jpg']
 ---

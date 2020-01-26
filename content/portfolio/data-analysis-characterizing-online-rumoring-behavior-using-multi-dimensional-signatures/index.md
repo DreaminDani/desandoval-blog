@@ -2,7 +2,7 @@
 title: CSCW 2015 Co-Authored Paper
 description: Characterizing Online Rumoring Behavior Using Multi-Dimensional Signatures
 date: '2015-04-01T00:00:00.000Z'
-keywords: ['Big Data', 'Data Analysis', 'Research', 'Descriptive', 'Python', 'Technical Communication', 'User Research']
+tags: ['Big Data', 'Data Analysis', 'Research', 'Descriptive', 'Python', 'Technical Communication', 'User Research']
 categories: ['Research']
 images: ['portfolio/data-analysis-characterizing-online-rumoring-behavior-using-multi-dimensional-signatures/F4541CD3A592A8BCEE1F376DCF2611E9.jpg']
 ---

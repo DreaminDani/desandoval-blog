@@ -2,7 +2,7 @@
 title: MetaViz (Concept Validation Tool)
 description: An information visualization tool to explore the ideal information visualization
 date: '2015-03-01T00:00:00.000Z'
-keywords: ['Big Data', 'Data Analysis', 'Design', 'Information Visualization', 'Project Management', 'Prototyping', 'Tableau', 'User Research', 'Workflow']
+tags: ['Big Data', 'Data Analysis', 'Design', 'Information Visualization', 'Project Management', 'Prototyping', 'Tableau', 'User Research', 'Workflow']
 categories: ['Research']
 images: ['portfolio/mechanical-turk-and-information-visualization-using-mechanical-turk-for-validating-information-visualization-principles-metaviz/912641FC992949FC0E503E0EBBB94EFB.jpg']
 ---

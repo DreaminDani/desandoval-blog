@@ -2,7 +2,7 @@
 title: '#HackHousing Section8Connect'
 description: HUD housing finder for section 8 applicants
 date: '2015-02-01T00:00:00.000Z'
-keywords: ['Agile', 'Big Data', 'Heroku', 'Data Analysis', 'Design', 'Hackathon', 'Project Management', 'Presentation']
+tags: ['Agile', 'Big Data', 'Heroku', 'Data Analysis', 'Design', 'Hackathon', 'Project Management', 'Presentation']
 categories: ['Hackathon']
 images: ['portfolio/zillow-hackhousing-section8connect/A9AC56AAFFF70291594ABB161E05752E.jpg']
 ---

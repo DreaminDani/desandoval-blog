@@ -2,7 +2,7 @@
 title: DubHacks - ClickTap
 description: Social media game prototype for the furious tapper
 date: '2015-10-01T00:00:00.000Z'
-keywords: ['UI Design', 'UX', 'Game Design', 'Social Media', 'Prototyping', 'Hackathon', 'InVision', 'Sketch']
+tags: ['UI Design', 'UX', 'Game Design', 'Social Media', 'Prototyping', 'Hackathon', 'InVision', 'Sketch']
 categories: ['Hackathon']
 images: ['portfolio/dubhacks-clicktap/C5C1EAB605ABCDE166CE9627E9692DC1.jpg']
 ---

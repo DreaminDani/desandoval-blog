@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="portfolio-list">
+  {{ if or .Title .Content }}
+  <div class="list-filter-header">
+    {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+    {{ with .Content }}<div>{{ . }}</div>{{ end }}
+    <button type="button" onclick="javascript:history.back()">Back</button>
+  </div>
+  {{ end }}
+  <main>
+    {{ range (.Paginator 9).Pages }}
+    {{ .Render "summary" }}
+    {{ end }}
+  </main>
+  {{ partial "pagination.html" . }}
+  {{ partial "sidebar.html" . }}
+</div>
+{{ end }}

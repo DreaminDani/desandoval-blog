@@ -4,7 +4,6 @@ description: >-
   Today is the last day of ConveyUX — a conference for user experience
   practitioners to discuss, present and reflect on the on-goings in the…
 date: '2018-03-02T02:17:57.921Z'
-categories: []
 keywords: []
 slug: /conveyux-2018-day-3-talks-and-conference-showcase-456d95618dee
 ---

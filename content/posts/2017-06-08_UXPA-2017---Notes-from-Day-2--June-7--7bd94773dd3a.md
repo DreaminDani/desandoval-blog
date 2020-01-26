@@ -4,7 +4,6 @@ description: >-
   Yesterday, I posted my 5-point summary of every talk I attended at the User
   Experience Professional Association (UXPA) Conference —…
 date: '2017-06-08T02:15:56.537Z'
-categories: []
 keywords: []
 slug: /uxpa-2017-notes-from-day-2-june-7-7bd94773dd3a
 ---

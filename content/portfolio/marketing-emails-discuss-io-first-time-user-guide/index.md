@@ -2,7 +2,7 @@
 title: Discuss.IO First-Time User Guide
 description: Introductory emails to first time users
 date: '2014-11-01T00:00:00.000Z'
-keywords: ['Design', 'Wordpress', 'Email', 'Marketing', 'Technical Communication', 'Workflow']
+tags: ['Design', 'Wordpress', 'Email', 'Marketing', 'Technical Communication', 'Workflow']
 categories: ['Design']
 images: ['portfolio/marketing-emails-discuss-io-first-time-user-guide/E30BF1D7041C84956EFBE18FAD3F767A.jpg']
 ---

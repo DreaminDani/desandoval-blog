@@ -4,7 +4,6 @@ description: >-
   Treat people like they belong as part of the process. Invite them to be a part
   of it. This is one of the many nuggets of knowledge from…
 date: '2019-04-05T13:19:14.328Z'
-categories: []
 keywords: []
 slug: >-
   /hxd-2019-health-experience-design-conference-boston-ma-32e5410c6b0d

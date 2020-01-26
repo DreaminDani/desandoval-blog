@@ -2,7 +2,7 @@
 title: Discuss.IO Knowledge Base
 description: A zendesk theme to match our marketing website design
 date: '2015-03-01T00:00:00.000Z'
-keywords: ['Design', 'Development', 'Formatting', 'Information Architecture', 'Documentation', 'Technical Communication', Web]
+tags: ['Design', 'Development', 'Formatting', 'Information Architecture', 'Documentation', 'Technical Communication', Web]
 categories: ['Design']
 images: ['portfolio/web-design-documentation-discuss-io-knowledge-base/1F4FE75A280B506B2E2382E296DD84E4.jpg']
 ---

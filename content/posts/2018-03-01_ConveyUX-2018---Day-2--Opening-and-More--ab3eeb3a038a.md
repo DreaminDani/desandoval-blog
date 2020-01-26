@@ -4,7 +4,6 @@ description: >-
   Yesterday, I posted my 5-point summary of every talk I attended at ConveyUX—
   currently taking place in Seattle, WA. Today, I will be…
 date: '2018-03-01T00:43:26.875Z'
-categories: []
 keywords: []
 slug: /conveyux-2018-day-2-opening-and-more-ab3eeb3a038a
 ---

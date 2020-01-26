@@ -4,7 +4,6 @@ description: >-
   A friend of mine just started as a “UX Team of One” (and Front-End Dev too!)
   at a startup. She asked me nicely to put together a list of…
 date: '2018-01-03T14:01:08.806Z'
-categories: []
 keywords: []
 slug: /the-designer-developer-toolbox-for-2018-10395afb4e07
 canonicalUrl: https://blog.prototypr.io/the-designer-developer-toolbox-for-2018-10395afb4e07

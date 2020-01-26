@@ -2,7 +2,7 @@
 title: Open Source Software
 description: A Presentation for Technical Communication
 date: '2014-03-01T00:00:00.000Z'
-keywords: ['Design', 'Formatting', 'Technical Communication', 'Powerpoint', 'Document Design']
+tags: ['Design', 'Formatting', 'Technical Communication', 'Powerpoint', 'Document Design']
 categories: ['Design']
 images: ['portfolio/open-source-software-presentation-and-poster/F6AC3D3FC7AC64F24FAA4BB5A1510AFF.jpg']
 ---

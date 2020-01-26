@@ -4,7 +4,6 @@ description: >-
   A few key learnings from today’s excellent speakers at the User Experience
   Professional Association (UXPA) Conference — uxpa2017.org
 date: '2017-06-07T02:24:48.918Z'
-categories: []
 keywords: []
 slug: /uxpa-2017-notes-from-day-1-june-6-c7cdc5ceaf46
 ---

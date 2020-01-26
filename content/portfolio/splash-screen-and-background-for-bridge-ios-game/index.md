@@ -2,7 +2,7 @@
 title: Bridge iOS Game
 description: Splash-screen and background for mobile phone game
 date: '2014-12-01T00:00:00.000Z'
-keywords: ['Design', 'Graphic Design', 'Art', 'Mobile']
+tags: ['Design', 'Graphic Design', 'Art', 'Mobile']
 categories: ['Design']
 images: ['portfolio/splash-screen-and-background-for-bridge-ios-game/F282E5B3EAEDBFF356C46F074400E57D.jpg']
 ---

@@ -4,24 +4,35 @@
 		<article>
 			<h1>{{ .Title }}</h1>
 			<time>{{ .Date.Format "January 2006" }}</time>
+			<div class="categories">
+				{{ $taxo := "categories" }}
+				{{ with .Param $taxo }}
+				{{ range $index, $category := . }}
+				{{- if gt $index 0 }}, {{ end -}}
+				{{ with $.Site.GetPage (printf "/%s/%s" $taxo $category) -}}
+				<a href="{{ .Permalink }}">{{ $category }}</a>
+				{{- end -}}
+				{{- end -}}
+				{{ end }}
+			</div>
 			<div>
 				{{ .Content }}
 			</div>
-			{{ with .Params.tags }}
-			<div>
-				<ul id="tags">
-					{{ range . }}
-					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
-					{{ end }}
-				</ul>
-			</div>
-			{{ end }}
-			{{ with .Site.DisqusShortname }}
-			<div>
-				{{ template "_internal/disqus.html" . }}
-			</div>
-			{{ end }}
 		</article>
+		{{ if .Param "tags" }}
+		<div>
+			<h2>More like this</h2>
+			{{ $taxo := "tags" }}
+			<ul id="{{ $taxo }}">
+				{{ range .Param $taxo }}
+				{{ $name := . }}
+				{{ with $.Site.GetPage (printf "/%s/%s" $taxo ($name | urlize)) }}
+				<li><a href="{{ .Permalink }}">{{ $name }}</a></li>
+				{{ end }}
+				{{ end }}
+			</ul>
+		</div>
+		{{ end }}
 	</main>
 	<div class="sticky-top">
 		{{ partial "sidebar.html" . }}

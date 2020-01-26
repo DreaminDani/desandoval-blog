@@ -2,7 +2,7 @@
 title: Rubik’s Workshop Final Project - Human Eye/Face
 description: 3D modeling using paper construction
 date: '2014-11-01T00:00:00.000Z'
-keywords: ['Design', '3D', 'Paper', 'Construction', 'Form']
+tags: ['Design', '3D', 'Paper', 'Construction', 'Form']
 categories: ['Design']
 images: ['portfolio/rubiks-workshop-final-project-human-eyeface/E1A564355BD833111EFA09AB5E8032BE.jpg']
 ---

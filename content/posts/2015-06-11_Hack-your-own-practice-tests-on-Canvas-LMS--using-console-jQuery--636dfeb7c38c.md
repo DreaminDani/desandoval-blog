@@ -2,7 +2,6 @@
 title: Hack-your-own practice tests on Canvas LMS (using console jQuery)
 description: ''
 date: '2015-06-11T22:03:42.000Z'
-categories: []
 keywords: []
 slug: >-
   /hack-your-own-practice-tests-on-canvas-lms-using-console-jquery-636dfeb7c38c
@@ -19,7 +18,8 @@ To make Canvas more useful, I have found an easy way to change any graded exam i
 As you can see, this display gives away the answer before a practice test-taker can make their best guess (an important part of exam practice). At first, my solution to this issue of was to zoom in to remove the visual queues on the left of each question, but the score on the right and the highlighted wrong answer, still gave some hints as to what the correct answer could be.
 
 This was unacceptable as I was trying my best to put myself into a “real test taking environment” using resources that were only available through Canvas. To respond to these display issues, I removed all hints at the right/wrong answer using a series of jQuery commands:  
-  
+
+```js
 // hide answer hints  
 $(‘.answer\_arrow’).hide();  
 $(‘.numerical\_exact\_answer’).hide();  
@@ -33,7 +33,8 @@ $(‘.selected\_answer’).css(‘color’,’#b3b3b3');
 $(‘.correct\_answer’).css(‘color’,’#b3b3b3');  
   
 // hide point total  
-$(‘.user\_points’).hide();  
+$(‘.user\_points’).hide(); 
+``` 
   
 Copying and pasting this code into a browser developer console will remove all hitns of what is the right/wrong answer — making the graded quiz more useful for someone using it to study:
 

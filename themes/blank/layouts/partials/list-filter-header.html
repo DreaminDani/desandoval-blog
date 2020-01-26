@@ -1,0 +1,23 @@
+<div class="list-filter-header">
+  {{ if or .Title .Content }}
+  {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+  {{ with .Content }}<div>{{ . }}</div>{{ end }}
+  {{ end }}
+  <strong class="filter-text">Filter by:</strong>
+  <div class="dropdown tags">
+    <button class="dropbtn" aria-haspopup="true">Tag</button>
+    <div class="dropdown-content" aria-label="submenu">
+      {{ range .Site.Taxonomies.tags }}
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      {{ end }}
+    </div>
+  </div>
+  <div class="dropdown categories">
+    <button class="dropbtn" aria-haspopup="true">Category</button>
+    <div class="dropdown-content" aria-label="submenu">
+      {{ range .Site.Taxonomies.categories }}
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      {{ end }}
+    </div>
+  </div>
+</div>

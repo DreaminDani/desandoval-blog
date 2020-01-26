@@ -4,7 +4,6 @@ description: >-
   In essence, a user experience is simply a human experience that we are able to
   manipulate with our current technology.
 date: '2017-06-25T18:59:30.144Z'
-categories: []
 keywords: []
 slug: /reflections-on-ux-from-a-low-vision-designer-660044a14ee5
 ---

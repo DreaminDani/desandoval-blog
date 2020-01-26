@@ -4,7 +4,6 @@ description: >-
   Last year, I spent time at the UXPA conference in Toronto and did a series of
   posts that highlighted the talks and workshops I attended…
 date: '2018-02-28T05:37:06.018Z'
-categories: []
 keywords: []
 slug: /conveyux-2018-day-1-workshops-e08d6ea19147
 ---
