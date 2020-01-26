@@ -54,6 +54,7 @@
 	{{ else }}
 	<link rel="canonical" href="{{ .Permalink }}">
 	{{ end }}
+	{{ template "_internal/google_analytics.html" . }}
 </head>
 
 <body id="{{ .Type }}">
