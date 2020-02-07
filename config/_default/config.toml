@@ -1,6 +1,5 @@
 baseURL = "https://desandoval.net"
 title = "Daniel E. Sandoval"
-theme = "blank"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
