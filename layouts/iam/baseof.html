@@ -10,7 +10,7 @@
 
 <body>
   {{ partial "header" . }}
-  <div id="iam-content" class="headroom"></div>
+  {{ block "main" . }}{{ end }}
   {{ partial "footer" . }}
 </body>
 
