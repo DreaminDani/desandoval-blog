@@ -1,0 +1,9 @@
+# redirect blog posts
+http://blog.desandoval.net/* https://desandoval.net/posts/:splat 301!
+https://blog.desandoval.net/* https://desandoval.net/posts/:splat 301!
+
+# some old redirects
+/i-am           /iam
+/design-web     /portfolio
+/art-music      /portfolio
+/calendar       https://calendly.com/d3sandoval/30min
