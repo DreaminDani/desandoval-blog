@@ -2,7 +2,10 @@
 
 ## Development
 1. [Install Hugo](https://gohugo.io/getting-started/installing/)
-2. Run `hugo server`
+2. `yarn` (or `npm install`)
+3. `yarn dev` (or `npm run dev`)
+
+Ensure that files generated via rollup in `/static` are committed. Otherwise, svelte components wont ship with hugo.
 
 ## Deployment
 Currently deployed on netlify. Can be deployed anywhere using `hugo`

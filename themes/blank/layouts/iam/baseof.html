@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {{ partial "head" . }}
+  <link rel="stylesheet" href="/svelte/iam.css">
+  <script src="/svelte/iam.js" defer></script>
+  {{ template "_internal/google_analytics.html" . }}
+</head>
+
+<body>
+  {{ partial "header" . }}
+  <div id="iam-content" class="headroom"></div>
+  {{ partial "footer" . }}
+</body>
+
+</html>
