@@ -1,0 +1,60 @@
+@import "../lib/tokens.scss";
+
+#iam {
+  @include max-width-layout();
+
+  .content {
+    margin-top: 7em;
+    display: flex;
+    @media #{$breakpoint-xxs} {
+      flex-direction: column;
+    }
+
+    & > div {
+      flex: 1;
+      padding-right: 0.5em;
+    }
+  }
+
+  .listening {
+    display: grid;
+    article {
+      margin-bottom: 1.24em;
+
+      img {
+        float: left;
+        padding-right: 0.4em;
+      }
+
+      h1 {
+        font-size: 1.4em;
+        font-weight: 400;
+        margin-top: 0;
+      }
+
+      h2 {
+        font-size: 1em;
+        margin: 0;
+      }
+
+      time {
+        color: $color-font;
+        font-size: 0.6em;
+      }
+    }
+  }
+
+  .reading {
+    article {
+      font-size: 1.4em;
+      margin-bottom: 0.69em;
+    }
+  
+    .date {
+      padding-top: 0.5em;
+      display: block;
+      font-size: 0.6em;
+    }
+  }
+
+}
