@@ -8,4 +8,4 @@
 Ensure that files generated via rollup in `/static` are committed. Otherwise, svelte components wont ship with hugo.
 
 ## Deployment
-Currently deployed on netlify. Can be deployed anywhere using `hugo`
+Currently deployed on netlify. Can be deployed anywhere using `yarn build && hugo`

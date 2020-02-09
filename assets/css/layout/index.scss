@@ -9,6 +9,10 @@ html {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.max-width-layout {
+    @include max-width-layout();
+}
+
 body {
     font-family: $font-paragraph;
     font-size: 1.05rem;
