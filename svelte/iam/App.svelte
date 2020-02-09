@@ -7,18 +7,9 @@
   let gettingNowPlaying = false;
 
   onMount(() => {
-    getReading();
     getListeningTo();
+    getReading();
   });
-
-  async function getReading() {
-    gettingReadingList = true;
-    const res = await fetch("/.netlify/functions/iam-reading");
-    const response = await res.json();
-    readingList = response;
-    console.log(readingList);
-    gettingReadingList = false;
-  }
 
   async function getListeningTo() {
     gettingNowPlaying = true;
@@ -27,6 +18,15 @@
     nowPlaying = response;
     console.log(nowPlaying);
     gettingNowPlaying = false;
+
+    async function getReading() {
+      gettingReadingList = true;
+      const res = await fetch("/.netlify/functions/iam-reading");
+      const response = await res.json();
+      readingList = response;
+      console.log(readingList);
+      gettingReadingList = false;
+    }
   }
 </script>
 
