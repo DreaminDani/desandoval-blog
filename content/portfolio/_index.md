@@ -1,6 +1,6 @@
 +++
 aliases = ["portfolio","showcase"]
-title = "Portfolio"
+title = "All Projects"
 author = "Daniel E. Sandoval"
 tags = ["index"]
 description = "Blog posts"
