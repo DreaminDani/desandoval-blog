@@ -2,17 +2,18 @@
 title: 'Working from home in a time of uncertainty'
 description: >-
   How to be flexible, productive and kind to yourself when working remotely.
-date: '2020-03-20T13:19:14.328Z'
+date: '2020-03-24T13:00:00.000Z'
 keywords: []
+slug: /working-from-home-in-a-time-of-uncertainty
 ---
 
 For those working from home for the first time or (like me) are returning to work from home due to COVID-19, you may not realize that one of the most important things you can do to stay focused is to be flexible and kind to yourself.
 
-After scrambling to find a space where your backdrop didn't expose your entire life to your coworkers, you may have spent the better part of this week reading the hundreds of articles with advice on how to work from home effectively. Despite working from home for most of 2018-2019, I found myself doing the same thing—attempting to find comfort in the "tech tips" and "survival hacks" that filled my news feed.
+After scrambling for a space where your background won't expose your entire life to your coworkers, you may have spent the better part of this week reading the hundreds of articles with advice on how to work from home effectively. Despite working from home for most of 2018-2019, I found myself doing the same thing—attempting to find comfort in the "tech tips" and "survival hacks" that filled my news feed.
 
-I noticed, however, that these articles didn't cover one of the most important things that I learned while working from home. It wasn't the Pomodoro Technique or GTD that kept me on task, nor was it tracking my sleep cycle or mid-morning meditation that gave me the energy I needed. **To remain productive, sane and (even sometimes) joyful, I had to recognize that I wasn't perfect.**
+I noticed, however, that these articles didn't cover one of the most important things that I learned while working from home. It wasn't the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) or the [Getting Things Done method](https://en.wikipedia.org/wiki/Getting_Things_Done) that kept me on task, nor was it tracking my sleep cycle or a mid-morning meditation that gave me the energy I needed. **To remain productive, sane and (even sometimes) joyful, I had to recognize that I wasn't perfect.**
 
-The list below describes how to create "release valves" for the pressures that build up throughout the day—the expectations that you set for yourself that you may not live up to.
+The following list describes the "release valves" I use to relieve the pressures that build up throughout the day—the expectations that I've set for myself that I may not live up to.
 
 ## 1. Make your routine flexible
 
@@ -37,9 +38,9 @@ It really just depends on the day, and that's okay. Once I accepted the fact tha
 
 ## 2. Start work at the same time, let your team know when that changes
 
-Teams work best when they share a set of core hours. Being able to reliably get a response from a teammate during the hours we've all agreed on makes working remotely much more efficient and pleasant.
+Teams work best when they share a set of core hours. Whether it's 2 or 8 hours of overlap, being able to reliably get a response from a teammate during the hours we've all agreed on makes working together remotely much more efficient and pleasant.
 
-To be a good teammate, it's important to respect these core hours and to be honest when something comes up that'll affect that. Whether it's a lunch break with a lot of errands to run or a morning walk whose distance you underestimated, I always make sure to let my team know when I'll be starting late.
+To be a good teammate, it's important to respect these core hours and to be honest when something comes up that'll affect that. If, for example, a lunch break is taking a bit longer (due to having to go to three different stores to find toilet paper), I make sure to let my team know that I'll be starting late.
 
 This does two things:
 1. It demonstrates that I respect others' time.
@@ -47,7 +48,7 @@ This does two things:
 
 If you've ever been on the other side of a message with no reply, you'll have empathy for the person pinging you to ask "if you'll be joining standup"
 
-Remote work requires over-communication. For this reason, I like to have my team's messaging app installed on my phone, so that I  always have a reliable way of letting them know when I'll be deviating from core hours.
+Remote work requires [over-communication](https://edgeryders.eu/t/distributed-collaboration-manual/11263#heading--2). For this reason, I like to have my team's messaging app installed on my phone, so that I always have a reliable way of letting them know when I'll be deviating from core hours.
 
 ## 3. Pair with others often
 
@@ -55,7 +56,7 @@ Remote work can get lonely. Whenever possible, I try to find ways to pair on tas
 
 I've found that the same outcomes that come from pair programming—like fewer distractions, higher quality work products and increased information flow within a team—can also be garnered from pairing with product managers, other designers and programmers on things other than code.
 
-During standup or via a direct message throughout the day, I'll try to find time with my teammates to pair on my own work or work that they have on their plate. Even if it's just 30 minutes of my day, having that time to connect with members of my team one-on-one helps us stay on the same page and trust one another with difficult decisions.
+During a daily standup meeting or via direct messages throughout the day, I'll try to find time with my teammates to pair on my own work or work that they have on their plate. Even if it's just 30 minutes of my day, having that time to connect with members of my team one-on-one helps us stay on the same page and trust one another with difficult decisions.
 
 ## 4. Try timing yourself (and maybe turn off notifications)
 
@@ -89,4 +90,4 @@ These techniques can be summarized in two words, "over-communication" and "patie
 
 If this helped you, please let me know [via email](mailto:daniel@desandoval.net) or comment on [Medium]() and [Dev.to]()!
 
-Do you have your own tips on working from home? I'd love to hear them! I also found [this curated page from Notion](https://www.notion.so/notion/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f?utm_source=email&utm_campaign=onboarding) to be super helpful, this week.
+Do you have your own tips on working from home? I'd love to hear them! I also found [this curated page from Notion](https://www.notion.so/notion/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f?utm_source=email&utm_campaign=onboarding) and [this amazing self-care focused post from Alice Goldfuss](https://blog.alicegoldfuss.com/work-in-the-time-of-corona/) to be super helpful, this week.
