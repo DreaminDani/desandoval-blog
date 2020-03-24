@@ -4,3 +4,5 @@
 **node_modules**
 /resources/_gen
 /static/svelte
+
+*.backup
