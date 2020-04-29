@@ -20,12 +20,20 @@ In this series, I walk through the steps (and tools) it took to...
 8. (Cross-)Post content on others' sites and get feedback on drafts
 
 ## A Hugo "Hello World"
-Step-by-step, getting the project set up. Choosing the theme (#blank)
+Hugo has a great [Quick Start guide](https://gohugo.io/getting-started/quick-start/) that lets you copy and paste commands into your terminal to get started. Broken down into 7 steps, the guide only requires you to make one choice... _A Theme_
+
+Although the guide used the [Ananke theme](https://themes.gohugo.io/gohugo-theme-ananke/) as an example, I was wary of using a theme that required me to parse somebody else's styling and possibly undo their work in order to make the site look like my own.
+
+So I started from scratch with the [blank theme](https://themes.gohugo.io/blank/).
+
+![Replace with my own copy](https://github.com/Vimux/blank/raw/master/images/splash.png)
+
+I later found out that hugo doesn't require you to use a theme at all and, instead will look for the same folders that a theme might provide (`layouts`, `static`, etc.) in your root folder, if no theme is configured ([docs](https://gohugo.io/getting-started/directory-structure/)). Themes are essentially a way to encapsulate the content-agnostic code for your site into its own tidy directory.
 
 ## From zero to hero: the home page (S)CSS
 With screenshots, show the styling as it gets added - layer by layer.
 
 ## Next up: the great migration
-In my next post, I'll discuss the tradeoffs of hosting my blog on Medium, how I exported and converted the posts into standard markdown, and mourning the loss of my custom markdown parser.
+In my next post, I'll discuss the tradeoffs of hosting a blog on Medium, how I exported and converted the posts into standard markdown, and mourning the loss of my custom markdown parser.
 
 **Spoiler alert:** It turns out, anything you could do with a custom markdown parser can usually be done much more easily with the tools built into a static site generator.
