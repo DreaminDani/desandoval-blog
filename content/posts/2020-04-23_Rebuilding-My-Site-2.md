@@ -36,7 +36,7 @@ I later found out that hugo doesn't require you to use a theme at all and, inste
 Pretty much everything I write and release with my name on it is made with two fonts: Raleway and Merriweather. So, of course, the first thing I did was add those fonts to the page:
 
 <details>
-  <summary>Code to enable fonts in `baseof` layout</summary>
+  <summary>Code to enable fonts in baseof layout</summary>
 
   ```html
   <!-- baseof.html -->
