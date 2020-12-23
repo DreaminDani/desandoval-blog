@@ -91,3 +91,5 @@ These techniques can be summarized in two words, "over-communication" and "patie
 If this helped you, please let me know [via email](mailto:daniel@desandoval.net) or comment on [Medium](https://medium.com/@d3sandoval/working-from-home-in-a-time-of-uncertainty-96d98903117) and [Dev.to](https://dev.to/d3sandoval/working-from-home-in-a-time-of-uncertainty-15ol)!
 
 Do you have your own tips on working from home? I'd love to hear them! I also found [this curated page from Notion](https://www.notion.so/notion/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f?utm_source=email&utm_campaign=onboarding) and [this amazing self-care focused post from Alice Goldfuss](https://blog.alicegoldfuss.com/work-in-the-time-of-corona/) to be super helpful, this week.
+
+If you're a parent or taking care of kids, also check out [Homeworking & Homeschooling in COVID-19](https://www.mindgenius.com/homeworking-homeschooling-in-covid-19-by-brad-egeland/).
