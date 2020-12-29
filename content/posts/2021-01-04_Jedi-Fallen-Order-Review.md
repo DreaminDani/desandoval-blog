@@ -6,7 +6,7 @@ keywords: []
 slug: /star-wars-jedi-fallen-order-review
 ---
 
-**Spoiler Alert** I really can't review this game without getting into spoilers. If you'd like a spoiler-free review, I'd recommend [Kotaku's article on the game](https://kotaku.com/star-wars-jedi-fallen-order-the-kotaku-review-1839940185). But, if you're reading this and you're interested in my opinion, I'd recommend playing the game. It's really only a dozen hours to play through, no more than 20 if you're a completionist.
+**Spoiler Alert** I really can't review this game without getting into spoilers. If you'd like a spoiler-free review, I'd recommend [Kotaku\'s article on the game](https://kotaku.com/star-wars-jedi-fallen-order-the-kotaku-review-1839940185). But, if you're reading this and you're interested in my opinion, I'd recommend playing the game. It's really only a dozen hours to play through, no more than 20 if you're a completionist.
 
 ## Living in the past
 
