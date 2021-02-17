@@ -1,0 +1,38 @@
+{{ define "main" }}
+<div class="portfolio-slides" style="--aspect-ratio: 960/569;">
+	<iframe
+		src="https://docs.google.com/presentation/d/e/2PACX-1vTnBiYX3EFSW4ELglNwJN96KPiyj7eunaMvc9XEfRAgrIFQBQZiW-1BDRCI8XxXDcscG6CUOVIWNork/embed?start=false&loop=true&delayms=3000"
+		frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true"
+		webkitallowfullscreen="true"></iframe>
+</div>
+<section>
+
+	{{ $type := .Type }}
+	{{ $.Scratch.Set "count" 1 }}
+
+	{{ range (.Site.RegularPages.GroupByDate "2006") }}
+	{{ if (gt .Key 2000) }}
+
+	{{ range (where .Pages "Type" $type) }}
+	{{ if (eq ($.Scratch.Get "count") 1) }}
+	{{ $.Scratch.Set "count" 0 }}
+	<h2 class="portfolio-archive-header">{{ .Date.Format "2006" }}</h2>
+	{{ end }}
+	{{ end }}
+
+	{{ $.Scratch.Set "count" 1 }}
+
+	<div class="portfolio-list">
+		<main>
+			{{ range (where .Pages "Type" $type) }}
+			{{ if (ne .Params.hidden true) }}
+			{{ .Render "summary" }}
+			{{ end }}
+			{{ end }}
+		</main>
+	</div>
+	{{ end }}
+	{{ end }}
+
+</section>
+{{ end }}

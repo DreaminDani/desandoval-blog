@@ -2,27 +2,27 @@ import svelte from 'rollup-plugin-svelte';
 import resolve from 'rollup-plugin-node-resolve';
 import commonjs from 'rollup-plugin-commonjs';
 import { terser } from 'rollup-plugin-terser';
+import css from 'rollup-plugin-css-only';
 
 const production = !process.env.ROLLUP_WATCH;
 
-export default {
-	input: 'svelte/iam/main.js',
+export default ['iam', 'portfolio'].map((name, index) => ({
+	input: `svelte/${name}/main.js`,
 	output: {
 		sourcemap: true,
 		format: 'iife',
 		name: 'app',
-		file: 'static/svelte/iam.js'
+		file: `static/svelte/${name}.js`
 	},
 	plugins: [
 		svelte({
 			// enable run-time checks when not in production
 			dev: !production,
-			// we'll extract any component CSS out into
-			// a separate file — better for performance
-			css: css => {
-				css.write('static/svelte/iam.css');
-			}
 		}),
+
+		// we'll extract any component CSS out into
+		// a separate file — better for performance
+		css({ output: `${name}.css` }),
 
 		// If you have external dependencies installed from
 		// npm, you'll most likely need these plugins. In
@@ -43,4 +43,4 @@ export default {
 		clearScreen: false,
 		include: 'svelte/**'
 	}
-};
+}));

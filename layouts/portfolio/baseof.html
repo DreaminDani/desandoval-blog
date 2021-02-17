@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {{ partial "head" . }}
+  <link rel="stylesheet" href="/svelte/portfolio.css">
+  <script src="/svelte/portfolio.js" defer></script>
+  {{ template "_internal/google_analytics.html" . }}
+</head>
+
+<body>
+  {{ partial "header" . }}
+  {{ block "main" . }}{{ end }}
+  {{ partial "footer" . }}
+</body>
+
+</html>

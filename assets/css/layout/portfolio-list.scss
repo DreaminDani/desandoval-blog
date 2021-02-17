@@ -55,9 +55,14 @@
   }
 }
 
+.portfolio-archive-header {
+  font-size: 3rem;
+  margin-top: 2em;
+  text-align: center;
+}
+
 .portfolio-list {
   @include max-width-layout();
-  padding-top: 7em;
 
   @media #{$breakpoint-mobile} {
     padding-left: 8px;
