@@ -41,7 +41,9 @@
     if (!child) return;
     let childIndex = Array.prototype.indexOf.call(parent.children, child);
     hoverCol = childIndex % cols;
-    hoverRow = (childIndex / cols) | 0;
+    if (cols > 1) {
+      hoverRow = (childIndex / cols) | 0;
+    }
   }
 
   $: {
@@ -75,11 +77,11 @@
     hoverCol = -1;
     hoverRow = -1;
   }}
-  on:mouseover={parentHover}
   on:focusout={() => {
     hoverCol = -1;
     hoverRow = -1;
   }}
+  on:mouseover={parentHover}
   on:focusin={parentHover}
   bind:this={parent}
   style="display:grid; 
