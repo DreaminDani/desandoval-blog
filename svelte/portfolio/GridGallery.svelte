@@ -76,6 +76,11 @@
     hoverRow = -1;
   }}
   on:mouseover={parentHover}
+  on:focusout={() => {
+    hoverCol = -1;
+    hoverRow = -1;
+  }}
+  on:focusin={parentHover}
   bind:this={parent}
   style="display:grid; 
 	grid-template-columns:{gridTemplateColumnsStr};
