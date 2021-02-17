@@ -104,7 +104,6 @@
       {/if}
       {#if mediumMatches || c.active}
         <span
-          transition:fade={{ delay: 300 }}
           style="background-color: rgba(0,0,0,0.24); position:absolute; width:100%; color:white; filter: drop-shadow(2px 4px 6px black); {mediumMatches
             ? 'text-align: left; bottom:.8em; left:.5em;'
             : 'text-align: center; top:1.5em; left:0;'}"
@@ -131,7 +130,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    transition: all 600ms;
+    transition: all 700ms;
   }
 
   :global(.gg) {

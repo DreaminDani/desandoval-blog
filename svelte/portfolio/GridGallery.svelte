@@ -17,12 +17,16 @@
   let hoverRow = -1;
   let gridTemplateColumnsStr = "";
   let gridTemplateRowsStr = "";
+
+  const mediaQuery = window.matchMedia("(prefers-reduced-motion: reduce)");
+  let prefersReducedMotion = mediaQuery.matches;
+
   $: gridTemplateColumns = tweened(Array(cols).fill(1), {
-    duration,
+    duration: prefersReducedMotion ? 0 : duration,
     easing: cubicOut,
   });
   $: gridTemplateRows = tweened(Array(rows).fill(1), {
-    duration,
+    duration: prefersReducedMotion ? 0 : duration,
     easing: cubicOut,
   });
   $: gridTemplateColumnsStr = $gridTemplateColumns.join("fr ") + "fr";
