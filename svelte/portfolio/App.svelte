@@ -7,7 +7,7 @@
   let activeClassName = "GridGalleryActiveItem";
   $: cs = [
     {
-      image: "/img/portfolio/senior-thesis.png",
+      image: "/img/portfolio/uw-suzzalo.jpg",
       url: "https://books.desandoval.net",
       logo: "/img/portfolio/uw-purple.jpg",
       color: "rgba(56,39,91,255)",
@@ -19,7 +19,7 @@
       active: false,
     },
     {
-      image: "/img/portfolio/dio-design.png",
+      image: "/img/portfolio/dio-whiteboard.png",
       url:
         "https://docs.google.com/presentation/d/e/2PACX-1vTnBiYX3EFSW4ELglNwJN96KPiyj7eunaMvc9XEfRAgrIFQBQZiW-1BDRCI8XxXDcscG6CUOVIWNork/embed?start=false&loop=true&delayms=3000#slide=id.g35f391192_04",
       logo: "/img/portfolio/dio-logo.png",
@@ -104,9 +104,10 @@
       {/if}
       {#if mediumMatches || c.active}
         <span
+          transition:fade={{ duration: 80 }}
           style="background-color: rgba(0,0,0,0.24); position:absolute; width:100%; color:white; filter: drop-shadow(2px 4px 6px black); {mediumMatches
             ? 'text-align: left; bottom:.8em; left:.5em;'
-            : 'text-align: center; top:1.5em; left:0;'}"
+            : 'text-align: center; top:1.5em; left:0; padding: 0.5em 0;'}"
         >
           {c.description}
         </span>
@@ -116,9 +117,9 @@
           ? 'color: #212121;'
           : 'color:white;'} filter: drop-shadow(2px 4px 6px black); {mediumMatches
           ? 'text-align: left; top:.5em; left:.5em;'
-          : 'text-align: center; bottom:.5em; left:0;'}"
+          : 'text-align: center; bottom:.5em; left:0; background-color: rgba(0,0,0,0.24); padding: 0.8em 0;'}"
       >
-        <h2>{c.title}</h2>
+        <h2 style="margin:0; padding-bottom: 0.25em;">{c.title}</h2>
         {#if !smallMatches} {c.subtitle} {/if}
       </span>
     </a>

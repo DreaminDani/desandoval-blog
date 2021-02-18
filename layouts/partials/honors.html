@@ -3,7 +3,7 @@
     <div class="honors-list">
         {{ range .Site.Data.honors }}
         <div class="honor-item">
-            <a href="url" target="_blank" rel="noopener noreferrer">
+            <a href="{{.url}}" target="_blank" rel="noopener noreferrer">
                 <img src="{{ .logo }}" alt="{{ .organization }} logo" />
                 <h2>{{ .title }}</h2>
                 <h3>{{ .organization }}</h3>
