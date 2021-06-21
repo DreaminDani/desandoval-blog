@@ -46,7 +46,7 @@ After reflecting on all the ways that this hiring process disadvantages diverse 
 At Chipper, we identified that we were really interested in three things:
 
 1. Avoiding misalignment
-    - Does the candidate share out values?
+    - Does the candidate share our values?
     - Can they resolve conflicts cross-culturally?
     - Can we afford them?
 2. Strong foundations in the design process
