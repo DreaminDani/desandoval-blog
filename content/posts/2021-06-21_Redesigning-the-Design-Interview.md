@@ -6,7 +6,7 @@ keywords: ['Design', 'Interview', 'Management']
 slug: /redesigning-the-design-interview
 ---
 
-As the first designer at a growing startup (Discuss.io) and as a consultant for much larger companies (Liberty Mutual, Humana, USAF), I've seen first hand how difficult it can to hire designers. Now, as the first designer at another growing startup (Chipper Cash), I have a lot more of a say in how we hire for our design team.
+As the first designer at a growing startup (Discuss.io) and as a consultant for much larger companies (Liberty Mutual, Humana, USAF), I've seen first hand how difficult it can be to hire designers. Now, as the first designer at another growing startup (Chipper Cash), I have a lot more of a say in how we hire for our design team.
 
 Over the past few months, throughout dozens of interviews, I've reflected on the ways that the design industry creates unnecessary barriers within our hiring practices. Having been on both sides of the table, I'd like to share what problems we've identified in the "standard" design interview loop and how we're working to address these problems at Chipper Cash.
 
