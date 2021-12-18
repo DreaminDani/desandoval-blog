@@ -12,7 +12,7 @@
 
     & > div {
       flex: 1;
-      padding-right: 0.5em;
+      padding-right: 1em;
     }
   }
 
@@ -47,11 +47,11 @@
   .reading {
     article {
       font-size: 1.4em;
-      margin-bottom: 0.69em;
     }
   
-    .date {
-      padding-top: 0.5em;
+    .excerpt {
+      margin-top: 0.25em;
+      margin-bottom: 1.5em;
       display: block;
       font-size: 0.6em;
     }

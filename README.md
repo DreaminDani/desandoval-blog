@@ -9,6 +9,7 @@
 For the I Am... page to work, the following environment variables need to be set:
 ```
 LASTFM_API_KEY
+RAINDROP_TEST_TOKEN
 ```
 You can use `dotenv` to access these locally via a `.env` file in the directory root
 

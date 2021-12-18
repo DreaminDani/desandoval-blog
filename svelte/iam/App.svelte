@@ -16,7 +16,7 @@
     const res = await fetch("/.netlify/functions/iam-listeningto");
     const response = await res.json();
     nowPlaying = response;
-    console.log(nowPlaying);
+    // console.log(nowPlaying);
     gettingNowPlaying = false;
   }
 
@@ -25,14 +25,14 @@
     const res = await fetch("/.netlify/functions/iam-reading");
     const response = await res.json();
     readingList = response;
-    console.log(readingList);
+    // console.log(readingList);
     gettingReadingList = false;
   }
 </script>
 
 <div class="content">
   <div class="listening">
-    <h1>Now playing...</h1>
+    <h1>Listening to...</h1>
     {#if gettingReadingList}
       <span>Getting recent tracks</span>
     {:else}
@@ -55,14 +55,14 @@
     {/if}
   </div>
   <div class="reading">
-    <h1>Reading List</h1>
+    <h1>Currently reading...</h1>
     {#if gettingReadingList}
       <span>Getting reading list</span>
     {:else}
-      {#each readingList as { title, link, pubDate }, index}
+      {#each readingList as { title, link, excerpt }, index}
         <article transition:fade={{ delay: index * 250 }}>
           <a target="_blank" rel="noreferrer nofollow" href={link}>{title}</a>
-          <time datetime={pubDate} class="date">{pubDate}</time>
+          <p class="excerpt">{excerpt}</p>
         </article>
       {/each}
     {/if}
