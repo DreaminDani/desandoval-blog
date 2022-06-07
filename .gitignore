@@ -2,7 +2,9 @@
 .vscode/
 .env
 **node_modules**
+.netlify
 /resources/_gen
 /static/svelte
+.hugo_build.lock
 
 *.backup

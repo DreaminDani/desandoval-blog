@@ -1,5 +1,5 @@
-const fetch = require("node-fetch");
-const querystring = require('querystring');
+import fetch from "node-fetch";
+import { stringify } from 'querystring';
 
 require('dotenv').config()
 const params = {
@@ -10,9 +10,9 @@ const params = {
   limit: 10,
 };
 
-exports.handler = async function (event, context) {
+export async function handler (event, context) {
   try {
-    const response = await fetch(`http://ws.audioscrobbler.com/2.0/?${querystring.stringify(params)}`, {
+    const response = await fetch(`http://ws.audioscrobbler.com/2.0/?${stringify(params)}`, {
       headers: { Accept: 'application/json' }
     })
     if (!response.ok) {

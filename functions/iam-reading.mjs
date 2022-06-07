@@ -1,6 +1,6 @@
 // Todo remove RSS parser as a dependency
-const fetch = require("node-fetch");
-const querystring = require('querystring');
+import fetch from "node-fetch";
+import { stringify } from 'querystring';
 
 require('dotenv').config()
 const collectionId = 0;
@@ -8,9 +8,9 @@ const params = {
   perpage: 10,
 };
 
-exports.handler = async function (event, context, callback) {
+export async function handler (event, context, callback) {
   try {
-    const response = await fetch(`https://api.raindrop.io/rest/v1/raindrops/${collectionId}?${querystring.stringify(params)}`, {
+    const response = await fetch(`https://api.raindrop.io/rest/v1/raindrops/${collectionId}?${stringify(params)}`, {
       headers: {
         Accept: 'application/json',
         Authorization: `Bearer ${process.env.RAINDROP_TEST_TOKEN}`
@@ -21,7 +21,7 @@ exports.handler = async function (event, context, callback) {
       return { statusCode: response.status, body: response.statusText }
     }
     const data = await response.json()
-    console.log(data);
+    // console.log(data);
     if (data.items) {
       return {
         statusCode: 200,

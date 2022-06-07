@@ -16,7 +16,7 @@
     const res = await fetch("/.netlify/functions/iam-listeningto");
     const response = await res.json();
     nowPlaying = response;
-    // console.log(nowPlaying);
+    console.log(nowPlaying);
     gettingNowPlaying = false;
   }
 
@@ -41,14 +41,18 @@
           transition:fade={{ delay: index * 250 }}
           target="_blank"
           rel="noreferrer nofollow"
-          href={url}>
+          href={url}
+        >
           <article class="track" id={mbid}>
             <img
-              src={image[1]['#text']}
-              alt={`Album cover for ${artist['#text']} - ${album['#text']}`} />
+              src={image[1]["#text"]}
+              alt={`Album cover for ${artist["#text"]} - ${album["#text"]}`}
+            />
             <h1>{name}</h1>
-            <h2>{artist['#text']} - {album['#text']}</h2>
-            <time datetime={date['#text']}>{date['#text']}</time>
+            <h2>{artist["#text"]} - {album["#text"]}</h2>
+            {#if date}
+              <time datetime={date["#text"]}>{date["#text"]}</time>
+            {/if}
           </article>
         </a>
       {/each}
