@@ -20,8 +20,7 @@
     },
     {
       image: "/img/portfolio/dio-whiteboard.png",
-      url:
-        "https://docs.google.com/presentation/d/e/2PACX-1vTnBiYX3EFSW4ELglNwJN96KPiyj7eunaMvc9XEfRAgrIFQBQZiW-1BDRCI8XxXDcscG6CUOVIWNork/embed?start=false&loop=true&delayms=3000#slide=id.g35f391192_04",
+      url: "https://www.figma.com/proto/A2DrAaHvGTJLm043fFI4Lx/Dani-Portfolio?page-id=0%3A1&node-id=222%3A50&viewport=570%2C189%2C0.35&scaling=contain&starting-point-node-id=222%3A50&hide-ui=1",
       logo: "/img/portfolio/dio-logo.png",
       color: "rgba(255,255,255,255)",
       inverted: true,
@@ -33,8 +32,7 @@
     },
     {
       image: "/img/portfolio/vmware.jpg",
-      url:
-        "https://tanzu.vmware.com/content/blog/streamline-your-teams-api-design-and-strategy-with-user-centered-documentation",
+      url: "https://tanzu.vmware.com/content/blog/streamline-your-teams-api-design-and-strategy-with-user-centered-documentation",
       logo: "/img/portfolio/vmware-pivotal-labs.png",
       color:
         "linear-gradient(90deg, rgba(29,66,138,1) 0%, rgba(255,255,255,1) 100%)",
@@ -47,14 +45,26 @@
     },
     {
       image: "/img/portfolio/chipper.png",
-      url: "https://chippercash.com/careers/",
+      url: "https://www.figma.com/proto/A2DrAaHvGTJLm043fFI4Lx/Dani-Portfolio?page-id=0%3A1&node-id=2%3A65&viewport=570%2C189%2C0.35&scaling=contain&starting-point-node-id=2%3A65&hide-ui=1",
       logo: "/img/portfolio/chipper-logo-white.png",
       color: "rgba(35, 39, 83, 1)",
       inverted: false,
       title: "Chipper Cash",
-      subtitle: "Growing a Design Team",
+      subtitle: "Director of Design during Hypergrowth",
       description:
-        "Building a diverse and inclusive team to design global equitable solutions",
+        "Built a diverse and inclusive team to design global equitable solutions",
+      active: false,
+    },
+    {
+      image: "/img/portfolio/stemma.png",
+      url: "https://www.stemma.ai/about",
+      logo: "/img/portfolio/stemma-logo.png",
+      color: "rgba(10, 25, 48, 1)",
+      inverted: false,
+      title: "Stemma",
+      subtitle: "Designing for the Data Domain",
+      description:
+        "Fostering a user-centered approach to data governance and open source tools",
       active: false,
     },
   ];
