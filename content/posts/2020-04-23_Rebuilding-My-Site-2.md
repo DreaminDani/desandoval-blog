@@ -286,7 +286,7 @@ Copying over the content from my old site, I added in some CSS Grid, with fallba
 <!-- layouts/partials/sidebar.html -->
 <aside>
 	<section class="profile">
-		<img src="/img/profile.jpg" />
+		<img src="/img/profile-purple.jpg" />
 		<div class="info">
 			<h1 class="name">Dani<br/><a href="https://dev.to/d3sandoval" target="_blank"  rel="noopener noreferrer">@d3sandoval</a></h1>
 			<h2 class="job">Product Designer</h2>
