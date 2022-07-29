@@ -57,7 +57,7 @@ Some other great resources for this type of work:
 
 ## Coda: Background beats
 
-Ever since listening to TED's [Far Flung: The secret Somali mixtapes](https://www.ted.com/talks/far_flung_the_secret_somali_mixtapes), I've been jamming out to this Spotify playlist in inspired by the mountain of cassettes and reel-to-reel recordings buried in Hargisa during the Somalian civil war.
+Ever since listening to TED's [Far Flung: The secret Somali mixtapes](https://www.ted.com/talks/far_flung_the_secret_somali_mixtapes), I've been jamming out to [this Spotify playlist](https://open.spotify.com/playlist/7yoXzpOBZL8Eq72z0xtIHp?si=49373278b95d4b40) inspired by the mountain of cassettes and reel-to-reel recordings buried in Hargisa during the Somalian civil war.
 
 It's a great story and the playlist really packs a punch!
 
