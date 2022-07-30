@@ -52,7 +52,7 @@ Finally, this case study, [Ethnography is Key for Computer-to-Computer Communica
 
 Some other great resources for this type of work:
 - [Documenting APIs](https://www.gov.uk/guidance/how-to-document-apis) by GOV.UK
-- [Streamline Your Teams' API Design and Strategy with User-Centered Documentation](https://tanzu.vmware.com/content/blog/streamline-your-teams-api-design-and-strategy-with-user-centered-documentation) by me!
+- [Streamline Your Teams\' API Design and Strategy with User-Centered Documentation](https://tanzu.vmware.com/content/blog/streamline-your-teams-api-design-and-strategy-with-user-centered-documentation) by me!
 
 
 ## Coda: Background beats
