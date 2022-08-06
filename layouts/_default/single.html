@@ -3,6 +3,11 @@
 	<main>
 		<article>
 			<h1>{{ .Title }}</h1>
+			{{ if not (hasPrefix .Summary (strings.TrimSuffix "…" .Description))}}
+			{{ with .Description }}
+			<p class="description">{{ . }}</p>
+			{{ end }}
+			{{ end }}
 			<time>{{ .Date.Format "January 2006" }}</time>
 			<div class="categories">
 				{{ $taxo := "categories" }}
