@@ -2,7 +2,7 @@
 title: 'Bookmark Beat: EP 4'
 description: What's the point of UX research, anyway?
 date: '2022-08-06T11:00:00.000Z'
-keywords: ['Bookmark Beat', 'Design Careers', 'Design Management', 'UX/UI', 'API Design']
+keywords: ['Bookmark Beat', 'UX Research', 'Music', 'DnD', 'Design']
 slug: /bookmark-beat-ep4
 ---
 
