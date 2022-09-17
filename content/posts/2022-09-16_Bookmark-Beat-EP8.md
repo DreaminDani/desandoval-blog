@@ -38,7 +38,7 @@ It's pretty amazing to see how far we'd already come in the 90s and how, even to
 
 ### But the future could have been so much cooler...
 
-As demonstrated by Walter Cronkite in [this vision of "The 21st Century"](https://www.youtube.com/watch?v=__MGYrcapdk) from 1967! Robots in the house, cheap self-sustaining buildings, and computers everywhere - these were all things to look forward to. Some of this we got - like a video connection to anyone in the world... others are coming slowly, like the 30-hour workweek 🤞 Some totally missed the mark - like 3D-printed plates and that horrid Disney Land Space Mountain architecture.
+As demonstrated by Walter Cronkite in [this vision of \'The 21st Century\'](https://www.youtube.com/watch?v=__MGYrcapdk) from 1967! Robots in the house, cheap self-sustaining buildings, and computers everywhere - these were all things to look forward to. Some of this we got - like a video connection to anyone in the world... others are coming slowly, like the 30-hour workweek 🤞 Some totally missed the mark - like 3D-printed plates and that horrid Disney Land Space Mountain architecture.
 
 It's really fascinating to see how we imagined our world in 40 years. What will the next 40 years look like? Hopefully not a total hellscape caused by climate change 😬
 
