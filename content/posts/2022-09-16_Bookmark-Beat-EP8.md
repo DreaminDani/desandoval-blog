@@ -1,7 +1,7 @@
 ---
 title: 'Bookmark Beat: EP 8'
 description: The video issue 💡 🎥 🎬
-date: '2022-09-03T16:00:00.000Z'
+date: '2022-09-17T08:00:00.000Z'
 keywords: ['Bookmark Beat', 'Microsoft', 'Design', 'Future', 'Svelte']
 slug: /bookmark-beat-ep8
 ---
