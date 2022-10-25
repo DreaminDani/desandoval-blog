@@ -2,7 +2,7 @@
 title: 'Bookmark Beat: EP 9'
 description: What can we imagine?
 date: '2022-10-01T08:00:00.000Z'
-keywords: ['Bookmark Beat', '', '', '', '']
+keywords: ['Bookmark Beat', 'AI', 'Interactive Fiction', 'Generative Art', 'Career']
 slug: /bookmark-beat-ep9
 ---
 
