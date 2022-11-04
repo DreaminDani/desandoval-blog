@@ -30,3 +30,14 @@ HUGO_VERSION = "0.62.2"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[[redirects]]
+  from = "http://dreamindani.com"
+  to = "https://desandoval.net"
+  status = 302
+  force = false
+
+[[redirects]]
+  from = "https://dreamindani.com"
+  to = "https://desandoval.net"
+  status = 302
+  force = false
