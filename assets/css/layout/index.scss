@@ -13,9 +13,10 @@ body {
     font-family: $font-paragraph;
     font-size: 1.05rem;
 
-    &.max-width-content, .max-width-content {
+    &.max-width-content,
+    .max-width-content {
         @include max-width-layout();
-        
+
         display: grid;
         grid-template-columns: 3fr 1fr;
         grid-gap: 60px;
@@ -36,7 +37,9 @@ body {
             main {
                 grid-column: 1 / span 2;
             }
-            aside, .sticky-top {
+
+            aside,
+            .sticky-top {
                 grid-column: 1 / span 2;
             }
 
@@ -73,7 +76,11 @@ h1 {
     }
 }
 
-h2, h3, h4, h5, h6 {
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-weight: 400;
     font-family: $font-heading;
 }
@@ -86,8 +93,18 @@ a {
     color: $color-primary;
     text-decoration: none;
 
-    &:hover, &:focus {
+    &:hover,
+    &:focus {
         color: $color-secondary;
+    }
+
+    &.alt {
+        color: $color-secondary;
+
+        &:hover,
+        &:focus {
+            color: $color-primary;
+        }
     }
 }
 
