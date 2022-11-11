@@ -8,7 +8,7 @@
 			{{ with .Site.Menus.main }}
 			<ul>
 				{{ range . }}
-				<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+				<li><a class="{{if eq "/" .URL}}hide-when-small{{ end }}" href="{{ .URL | relURL }}">{{ .Name }}</a></li>
 				{{ end }}
 			</ul>
 			{{ end }}

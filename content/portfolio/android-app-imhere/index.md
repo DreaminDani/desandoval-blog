@@ -15,7 +15,7 @@ When you arrive somewhere (like when you finish a plane, train, or long car ride
 
 For more information, see the design specification here: [http://1drv.ms/1FqmfVF](http://1drv.ms/1FqmfVF)
 
-Source code available here: [https://github.com/d3sandoval/Android/tree/master/ImHereFinal](https://github.com/d3sandoval/Android/tree/master/ImHereFinal)
+Source code available here: [https://github.com/DreaminDani/Android/tree/master/ImHereFinal](https://github.com/DreaminDani/Android/tree/master/ImHereFinal)
 
 # Features and Specification
 
@@ -99,5 +99,5 @@ _To be implemented if I have time, otherwise, will be developed outside the clas
 
 The entire specification is located here: [http://1drv.ms/1FqmfVF](http://1drv.ms/1FqmfVF)
 
-For source code and package, head to my Android github: [https://github.com/d3sandoval/Android/tree/master/ImHereFinal](https://github.com/d3sandoval/Android/tree/master/ImHereFinal)
+For source code and package, head to my Android github: [https://github.com/DreaminDani/Android/tree/master/ImHereFinal](https://github.com/DreaminDani/Android/tree/master/ImHereFinal)
 

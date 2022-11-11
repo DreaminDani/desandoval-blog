@@ -288,7 +288,7 @@ Copying over the content from my old site, I added in some CSS Grid, with fallba
 	<section class="profile">
 		<img src="/img/profile-purple.jpg" />
 		<div class="info">
-			<h1 class="name">Dani<br/><a href="https://dev.to/d3sandoval" target="_blank"  rel="noopener noreferrer">@d3sandoval</a></h1>
+			<h1 class="name">Dani<br/><a href="https://dev.to/DreaminDani" target="_blank"  rel="noopener noreferrer">@DreaminDani</a></h1>
 			<h2 class="job">Product Designer</h2>
 			<h3 class="company">Pivotal Labs (VMware)</h3>
 			<h4 class="location">Cambridge, MA</h4>
@@ -552,7 +552,7 @@ aside {
 ### The fallback layout:
 ![A screenshot showing the main content area, sidebar and honors stacked on top of each other](/img/rebuilding-my-site/homepage-fallback.png)
 
-Note that the home page content is just a markdown file and the honors list is a JSON file in the `data` directory. You can view that file, along with the rest of the code base during this iteration, [over on GitHub](https://github.com/d3sandoval/desandoval-blog/tree/adf2c172e556fcf80f8961af21aa2d0d1a45adc6).
+Note that the home page content is just a markdown file and the honors list is a JSON file in the `data` directory. You can view that file, along with the rest of the code base during this iteration, [over on GitHub](https://github.com/DreaminDani/desandoval-blog/tree/adf2c172e556fcf80f8961af21aa2d0d1a45adc6).
 
 ## Next up: the great migration
 In my next post, I'll discuss the tradeoffs of hosting a blog on Medium, how I exported and converted the posts into standard markdown, and mourning the loss of my custom markdown parser.

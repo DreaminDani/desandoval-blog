@@ -88,6 +88,6 @@ In situations where teammates do not post at break times, I still do not hesitat
 
 These techniques can be summarized in two words, "over-communication" and "patience". Over-communication ensures that the things I might think are obvious are made obvious to others; while being patient with myself, my team and others I work with has made it easy to adapt to the ever-changing environment of remote work.
 
-If this helped you, please let me know [via email](mailto:daniel@desandoval.net) or comment on [Medium](https://medium.com/@d3sandoval/working-from-home-in-a-time-of-uncertainty-96d98903117) and [Dev.to](https://dev.to/d3sandoval/working-from-home-in-a-time-of-uncertainty-15ol)!
+If this helped you, please let me know [via email](mailto:daniel@desandoval.net) or comment on [Medium](https://medium.com/@DreaminDani/working-from-home-in-a-time-of-uncertainty-96d98903117) and [Dev.to](https://dev.to/dreamindani/working-from-home-in-a-time-of-uncertainty-15ol)!
 
 Do you have your own tips on working from home? I'd love to hear them! I also found [this curated page from Notion](https://www.notion.so/notion/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f?utm_source=email&utm_campaign=onboarding) and [this amazing self-care focused post from Alice Goldfuss](https://blog.alicegoldfuss.com/work-in-the-time-of-corona/) to be super helpful, this week.

@@ -20,7 +20,7 @@ Anyway...
 
 ### A bit about *my job*
 
-I have [a new job now](https://www.linkedin.com/posts/d3sandoval_startups-design-announcement-activity-6942183390968238080-66mv?utm_source=linkedin_share&utm_medium=member_desktop_web). It's great! I'm learning a lot about a completely new domain... Data! I've had the pleasure of running a few user interviews and shadowing many others. One of the interview participants pointed us to [Uber\'s Databook](https://eng.uber.com/databook/) and, since then, I've been diving into the deep end with this resource and so many like it.
+I have [a new job now](https://www.linkedin.com/posts/dreamindani_startups-design-announcement-activity-6942183390968238080-osJL?utm_source=share&utm_medium=member_desktop). It's great! I'm learning a lot about a completely new domain... Data! I've had the pleasure of running a few user interviews and shadowing many others. One of the interview participants pointed us to [Uber\'s Databook](https://eng.uber.com/databook/) and, since then, I've been diving into the deep end with this resource and so many like it.
 
 But, one thing I've noticed so far is, just like many fields within computer science and technology, there's *a lot* of language... and it's not very consistent.
 

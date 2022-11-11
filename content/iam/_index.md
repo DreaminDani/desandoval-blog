@@ -1,4 +1,4 @@
 +++
-title = "I am..."
+title = "I am"
 description = "My current activities..."
 +++

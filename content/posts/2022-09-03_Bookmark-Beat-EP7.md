@@ -14,7 +14,7 @@ If you vibe to this sort of sound, you can subscribe to updates via [Substack](h
 
 ### An intro: Surround sound... in SPACE!
 
-If you follow me on Twitter, you've likely already seen [how excited I am](https://twitter.com/d3sandoval/status/1564986003407998977) about the new [audio tracks that NASA released this week](https://webbtelescope.org/contents/news-releases/2022/news-2022-040.html). "A team of scientists, musicians, and a member of the blind and visually impaired community worked to adapt Webb’s data... to make Webb’s images and data understandable through sound – helping listeners create their own mental images."
+If you follow me on Twitter, you've likely already seen [how excited I am](https://twitter.com/Dreamin_Dani/status/1564986003407998977) about the new [audio tracks that NASA released this week](https://webbtelescope.org/contents/news-releases/2022/news-2022-040.html). "A team of scientists, musicians, and a member of the blind and visually impaired community worked to adapt Webb’s data... to make Webb’s images and data understandable through sound – helping listeners create their own mental images."
 
 Here's the quick links to the two new tracks:
 - [Cosmic Cliffs in the Carina Nebula Sonifications](https://webbtelescope.org/contents/media/videos/2022/040/01GA9363QVSRFMTE0FYKHREHCG)

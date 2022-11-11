@@ -19,7 +19,7 @@
       active: false,
     },
     {
-      image: "/img/portfolio/dio-whiteboard.png",
+      image: "/img/portfolio/dio-whiteboard.jpg",
       url: "https://www.figma.com/proto/A2DrAaHvGTJLm043fFI4Lx/Dani-Portfolio?page-id=0%3A1&node-id=222%3A50&viewport=570%2C189%2C0.35&scaling=contain&starting-point-node-id=222%3A50&hide-ui=1",
       logo: "/img/portfolio/dio-logo.png",
       color: "rgba(255,255,255,255)",
@@ -44,7 +44,7 @@
       active: false,
     },
     {
-      image: "/img/portfolio/chipper.png",
+      image: "/img/portfolio/chipper.jpg",
       url: "https://www.figma.com/proto/A2DrAaHvGTJLm043fFI4Lx/Dani-Portfolio?page-id=0%3A1&node-id=2%3A65&viewport=570%2C189%2C0.35&scaling=contain&starting-point-node-id=2%3A65&hide-ui=1",
       logo: "/img/portfolio/chipper-logo-white.png",
       color: "rgba(35, 39, 83, 1)",

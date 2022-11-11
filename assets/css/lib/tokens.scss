@@ -8,9 +8,10 @@ $font-paragraph: 'Montserrat', serif;
 // END Fonts
 
 // START Colors
-$color-background-dark: #303030;
+$color-background-dark: #424242;
+$color-font-dark: #141115;
 $color-font: #ffffff;
-$color-header-background: #212121;
+$color-header-background: #5998C5;
 $color-primary: #77bf51;
 $color-secondary: #db899a;
 // END Colors
@@ -30,8 +31,8 @@ $elevation-header: 100;
     // see https://github.com/mui-org/material-ui/blob/master/packages/material-ui/src/styles/shadows.js
     $shadow: map-get($shadows, $level);
     box-shadow: unquote("#{nth($shadow,1)}px #{nth($shadow,2)}px #{nth($shadow,3)}px #{nth($shadow,4)}px rgba(0,0,0,#{$shadowKeyUmbraOpacity})"),
-                unquote("#{nth($shadow,5)}px #{nth($shadow,6)}px #{nth($shadow,7)}px #{nth($shadow,8)}px rgba(0,0,0,#{$shadowKeyPenumbraOpacity})"),
-                unquote("#{nth($shadow,9)}px #{nth($shadow,10)}px #{nth($shadow,11)}px #{nth($shadow,12)}px rgba(0,0,0,#{$shadowAmbientShadowOpacity})");
+    unquote("#{nth($shadow,5)}px #{nth($shadow,6)}px #{nth($shadow,7)}px #{nth($shadow,8)}px rgba(0,0,0,#{$shadowKeyPenumbraOpacity})"),
+    unquote("#{nth($shadow,9)}px #{nth($shadow,10)}px #{nth($shadow,11)}px #{nth($shadow,12)}px rgba(0,0,0,#{$shadowAmbientShadowOpacity})");
 }
 
 $shadowKeyUmbraOpacity: 0.2;

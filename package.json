@@ -10,7 +10,7 @@
     "dev": "run-p autobuild hugo:dev",
     "hugo:dev": "hugo server --bind=0.0.0.0 -D -p 5000"
   },
-  "author": "d3sandoval",
+  "author": "DreaminDani",
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^10.4.7",

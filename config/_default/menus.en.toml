@@ -18,6 +18,6 @@
 
 [[main]]
   identifier = "iam"
-  name = "i am..."
+  name = "i am"
   url = "iam"
   weight = 3

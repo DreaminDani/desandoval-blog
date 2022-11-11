@@ -17,7 +17,7 @@ More information regarding the hackathon and requirements are located here: [htt
 
 Our final project _was_ located on a heroku instance: [http://section8connect.herokuapp.com/](http://section8connect.herokuapp.com/)
 
-You can find the source code and documentation here: [https://github.com/d3sandoval/hack-housing-section8connect](https://github.com/d3sandoval/hack-housing-section8connect)
+You can find the source code and documentation here: [https://github.com/DreaminDani/hack-housing-section8connect](https://github.com/DreaminDani/hack-housing-section8connect)
 
 # The Seattle Housing Finder
 
@@ -43,9 +43,9 @@ Our approach for satisfying this challenge was to:
 # Our application provides a way for landlords to quickly fill vacancies with Section 8 voucher holders.
 In order for this application to be as valuable as it can be, we must continue to work with the Seattle Housing Association to advertise this site to current voucher holders as well as advocate its ability to fill otherwise unoccupied (or under-priced) rooms and buildings.
 
-### *You can see our research results in our [presentation slide deck](https://github.com/d3sandoval/hack-housing-section8connect/blob/master/slide-deck.pptx)
+### *You can see our research results in our [presentation slide deck](https://github.com/DreaminDani/hack-housing-section8connect/blob/master/slide-deck.pptx)
 
-You can also [check out the infographic](https://github.com/d3sandoval/hack-housing-section8connect/blob/master/research-results.jpg)!
+You can also [check out the infographic](https://github.com/DreaminDani/hack-housing-section8connect/blob/master/research-results.jpg)!
 
 ![Section 8 Infographic](4059A6336008FBC521FEF8345C864C86.jpg)
 
@@ -80,5 +80,5 @@ We made use of:
 - [Public Housing Buildings Dataset](http://zillowhack.hud.opendata.arcgis.com/datasets/2a462f6b548e4ab8bfd9b2523a3db4e2_0?geometry=-123.419%2C47.467%2C-121.245%2C47.745&filterByExtent=true&uiTab=table) (to find "current" availabilities)
 
 ## Contributing
-More information can be found at the github repro: [https://github.com/d3sandoval/hack-housing-section8connect#contributing](https://github.com/d3sandoval/hack-housing-section8connect#contributing)
+More information can be found at the github repro: [https://github.com/DreaminDani/hack-housing-section8connect#contributing](https://github.com/DreaminDani/hack-housing-section8connect#contributing)
 

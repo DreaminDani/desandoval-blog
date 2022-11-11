@@ -53,6 +53,6 @@ Feel free to use this code yourself by…
     instructions on how to do that [here](http://wickedlysmart.com/hfjsconsole/)
 3.  pasting in the code!
 
-Feel free to comment or reach out ([@d3sandoval](http://www.twitter.com/d3sandoval)) with suggestions on how to improve this little hack.
+Feel free to comment or reach out ([@Dreamin_Dani](http://www.twitter.com/Dreamin_Dani)) with suggestions on how to improve this little hack.
 
 **Update:** Added a few lines of code to hide more answer types (rather than just multiple choice). Also added some comments for explanation.
