@@ -26,13 +26,15 @@ description = "Portfolio"
 - Svelte Newsletter Author (Fall 2020 - Present)
 - Playahead Games Founder/Developer (Summer 2020 - Present)
 - OpenEMR Contributor (Spring - Fall 2018)
-- Social Justice Hackathon Co-creator (Winter 2015 - 2016)
+- Social Justice Hackathon Co-creator (Winter 2015 - 2016, Fall 2020)
 
 ## Hackathons
+- Philadelphia's Social Justice Hackathon: Designer & Co-organizer (October 28-30, 2022)
 - Exploring Design for Social VR: Mindful Realities Makeathon: Designer (April 2017)
 - Seattle VR Hackathon: Mentor (2017)
 - Team Child Hackathon: T-Shirt Designer & Design Thinking Talk (October 2016)
 - Seattle VR Hackathon: Designer (2016)
+- Seattle's Social Justice Hackathon: Designer & Co-organizer (November 6 - 14, 2015)
 - UW's Dubhacks: Designer (October 2015)
 - Zillow's #HackHousing: Designer (Februrary 2015)
 - HackTheCD: Designer, Developer & 1st Place Winner (September 2014)
@@ -53,9 +55,3 @@ description = "Portfolio"
 - Paul Allen Computing Challenging (PACC): Mentor (June 2014)
 - ConveyUX Seattle: Presenter, Showcase (February 2013)
 - Rainy Dawg Radio: DJ, Blogger and Lead Editor (2013 - 2015)
-
-## Side Projects
-- RTCRPG (Working Title)
-- Castles & Crusades Treasure Tracker
-- Tome
-- Anymessage

@@ -12,6 +12,7 @@ $imgwidth: 200px;
         }
 
         .info {
+            text-align: left;
             display: inline-block;
 
             h1 {
@@ -35,16 +36,23 @@ $imgwidth: 200px;
     }
 
     .info {
+        text-align: center;
         & > * {
-            margin: 0;
-        }
-
-        .name {
             margin: 8px 0;
+        }
+        .name {
+            font-size: 2em;
+            font-weight: 600;
+            margin: 8px 0 4px 0;
             line-height: 1;
         }
-        .job {
-            margin-bottom: 4px;
+        .username {
+            margin: 4px 0 12px 0;
+            font-weight: 600;
+            line-height: 1;
+        }
+        .job, .company, .location {
+            margin: 2px 0;
         }
     }
 }

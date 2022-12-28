@@ -5,7 +5,7 @@
         font-size: 2em;
         margin: 0;
         margin-left: 80px;
-        border-bottom: 1px solid rgba(255, 255, 255, 0.8);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.57);
         
         @media #{$breakpoint-tablet} {
             margin-left: 40px;
@@ -20,7 +20,7 @@
         scroll-snap-type: x mandatory;
     
         /* Horizontal Scroll Indicator */
-        background-image: linear-gradient(to right, $color-background-dark, $color-background-dark), linear-gradient(to right, $color-background-dark, $color-background-dark), linear-gradient(to right, rgba(0, 0, 20, .87), rgba(255, 255, 255, 0)), linear-gradient(to left, rgba(0, 0, 20, .87), rgba(255, 255, 255, 0));
+        background-image: linear-gradient(to right, $color-background-dark, $color-background-dark), linear-gradient(to right, $color-background-dark, $color-background-dark), linear-gradient(to right, rgba(255, 255, 235, .57), rgba(255, 255, 235, .57)), linear-gradient(to left, rgba(255, 255, 235, .57), rgba(255, 255, 235, .57));
         /* Shadows */
         /* Shadow covers */
         background-position: left center, right center, left center, right center;
@@ -39,11 +39,12 @@
             text-align: center;
     
             img {
+                filter: invert(1);
                 height: 64px;
             }
 
             h2 {
-                color: #fff;
+                color: $color-font;
                 margin: 0;
             }
             

@@ -28,7 +28,7 @@ body {
         }
 
         aside {
-            margin-top: 7em;
+            margin-top: 8em;
         }
 
         @media #{$breakpoint-mobile} {
@@ -68,6 +68,10 @@ footer {
 
 h1 {
     font-family: $font-heading;
+}
+
+main > h1 {
+    font-size: 4em;
 }
 
 @media #{$breakpoint-xxs} {

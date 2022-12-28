@@ -7,6 +7,13 @@
 		"url": "http://www.nesa.org/trail.html"
 	},
 	{
+		"logo": "/img/honors/philly-hackathon.png",
+		"title": "Designer & Co-Organizer",
+		"organization": "Philadelphia's Social Justice Hackathon",
+		"description": "Designed and organized a Hackathon for Philadelphia's social justice community organizations",
+		"url": "/portfolio/social-justice-hackathon"
+	},
+	{
 		"logo": "/img/honors/HackTheCD.png",
 		"title": "First Place Winner",
 		"organization": "HackTheCD",
@@ -17,7 +24,7 @@
 		"logo": "/img/honors/SSJH.png",
 		"title": "Designer & Co-Organizer",
 		"organization": "Seattle's Social Justice Hackathon",
-		"description": "Designed and organized a Hackathon and Demo Day at Seattle University’s School of Law and Seattle’s City Hall, respectively",
+		"description": "Designed and organized a Hackathon and Demo Day at Seattle University’s School of Law and Seattle’s City Hall",
 		"url": "/portfolio/social-justice-hackathon"
 	},
 	{
