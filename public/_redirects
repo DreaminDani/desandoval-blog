@@ -1,6 +1,7 @@
 # redirect blog posts
 http://blog.desandoval.net/* https://desandoval.net/posts/:splat 301!
 https://blog.desandoval.net/* https://desandoval.net/posts/:splat 301!
+https://desandoval.net/* https://dreamindani.com/:splat 301!
 
 # some old redirects
 /i-am           /iam
