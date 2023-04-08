@@ -1,6 +1,6 @@
 ---
 title: 'Bookmark Beat: EP 14'
-description: TBD
+description: Layoffs, links and a lot of new subscribers 👋🏼
 date: '2023-04-08T08:00:00.000Z'
 keywords: ['Bookmark Beat', 'Layoffs', 'Design Inspiration', 'Music']
 slug: /bookmark-beat-ep14
