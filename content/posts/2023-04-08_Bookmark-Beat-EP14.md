@@ -14,7 +14,7 @@ Today, I'll be sharing my thoughts on the recent waves of layoffs and (to lighte
 
 > It looks like I've gotten a lot of new subscribers since the last beat 👋🏼 Welcome! If you haven't already, I'd recommend [checking out the archive](https://bookmarkbeat.substack.com/archive).
 > 
-> Not a subscriber yet? you can get this newsletter sent straight to your inbox by [subscribing on Substack](https://bookmarkbeat.substack.com/?showWelcome=true) 📬
+> Not a subscriber yet? You can get this newsletter sent straight to your inbox by [subscribing on Substack](https://bookmarkbeat.substack.com/?showWelcome=true) 📬
 
 Now let's kick off the beat...
 
