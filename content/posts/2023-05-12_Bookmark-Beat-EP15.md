@@ -72,8 +72,7 @@ I've been loving the YouTube recommendations folks have sent me over the last fe
 - [Jeremiah Chiu & Marta Sofia Honer performed "Recordings from the Åland Islands"](https://www.youtube.com/watch?v=GahmMzwycxk) for Perfect Circuit. As a modular synth nerd, I really enjoyed hearing about their setup and the amazing sounds that they make with just a few hundred cables
 - [The Lofi Magic of VHS Audio](https://www.youtube.com/watch?v=OHoTzs3mtM8) by David Hilowitz is a combination history lesson and sampling tutorial that had my head spinning as fast as a tape head
 - [15 Simple Tips to Sound Pro on Guitar](https://www.youtube.com/watch?v=r5aGiIXV9bM) by Andrew Huang is at once silly and practical. By the end of it, my confidence for slapping my bass increased by at least 3x.
-- [My Favorite Beautiful Chords](https://www.youtube.com/watch?v=qBTYkNZw5g8) by 
-Ichika Nito is short and sweet. And I've already stolen at least one of the chords to record a couple demos.
+- [My Favorite Beautiful Chords](https://www.youtube.com/watch?v=qBTYkNZw5g8) by Ichika Nito is short and sweet. And I've already stolen at least one of the chords to record a couple demos.
 - [The Nintendo-fication of Jazz](https://www.youtube.com/watch?v=oKWgLe-jQjc) from Adam Neely explains how a new set jazz standards has emerged from the most unlikely of places - video games!
 
 And, to add a couple of non-music-related videos, [What is Happening with iPhone Camera?](https://www.youtube.com/watch?v=88kd9tVwkH8) by Marques Brownlee and [I made a FULL-BODY keyboard!](https://www.youtube.com/watch?v=h376W93gQq4) by Everything Is Hacked are both worth checking out. The former for a great technical deep-dive on why an old Android phone is better than the latest and greatest iPhone at taking pictures; the latter for a big belly chuckle!
