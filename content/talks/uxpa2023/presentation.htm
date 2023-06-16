@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base href="@@base@@" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="viewport-fit=cover, width=device-width, height=device-height, initial-scale=1" />
+    <link rel="stylesheet" href="engine/main.css" />
+    <link rel="stylesheet" href="theme/milano.css" />
+    <link rel="stylesheet" href="engine/katex/katex.min.css" />
+    <!--<link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />-->
+    <style>
+    :root{
+--logo: /assets/uxpa2023_outline_v2-1-02 (1).png;
+--darkaccent1color: ;
+--lightaccent1color: ;
+--accent2: #43aa8b;
+--accent3: #f9c74f;
+--accent4: #90be6d;
+--accent5: #f8961e;
+--accent6: #577590;
+--lighttitletextcolor: #fff;
+--darktitletextcolor: #fff;
+--lightbodytextcolor: #fff;
+--darkbodytextcolor: #fff;
+--lightbackgroundcolor: transparent;
+--darkbackgroundcolor: transparent;
+--bodyfont: merriweather;
+--titlefont: raleway;
+} 
+
+    </style>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="engine/print.css"
+      media="print"
+    />
+  </head>
+
+  <body class="responsive">
+    <div class="reveal">
+      <div class="slides"><section class="variable-size-headings light cover-container present has-light-background fitted" data-background-color="#79bcd9" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-cover" style="width: 100%; font-size: 0.859rem;">
+        <div style=""><h1 id="redesigningthedesigninterview">Redesigning the design interview</h1>
+
+<h4 id="howcandidatesandbusinessescanfindtherightfitbyrethinkinghiringpracticesfromfirstprinciples">How candidates and businesses can find the right "fit" by rethinking hiring practices from first principles</h4></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section><section class="variable-size-headings light v-split-container present fit-warning has-light-background fitted" data-background-color="#78bdd2" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split" style="width: 100%; font-size: 0.578rem;">
+        <div style=""><h1 id="lessonslearnedfrom..">Lessons Learned From..</h1></div>
+        <div style=""><p>5 -&gt; 55 people</p>
+
+<h1 id="discuss.io">Discuss.io</h1>
+
+<p>~2.5k, after acquisition: ~30k</p>
+
+<h1 id="pivotallabs">Pivotal Labs</h1>
+
+<p>50 -&gt; ~500 people</p>
+
+<h1 id="chipper">Chipper</h1>
+
+<p>11, early stage</p>
+
+<h1 id="stemma.ai">Stemma.ai</h1>
+
+<p>numbers above = growth during tenure</p></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light cover-container present fit-warning has-light-background fitted" data-background-color="#77bfcc" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-cover" style="width: 100%; font-size: 0.672rem;">
+        <div style=""><h1 id="agenda">Agenda</h1>
+
+<h2 id="aninitialredesign">An Initial Redesign</h2>
+
+<p>Updating our practices while growing</p>
+
+<h2 id="qaconversation">Q&amp;A / Conversation</h2>
+
+<p>Let's chat about these ideas</p>
+
+<h2 id="lookingahead">Looking ahead</h2>
+
+<p>AI, Economic Downturn, etc.</p></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section><section class="variable-size-headings light cover-container present has-light-background fitted" data-background-color="#77c1c6" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-cover" style="width: 100%; font-size: 0.953rem;">
+        <div style=""><h1 id="thewaywedodesignhiringtodayisbroken">The way we do design hiring today is broken</h1></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section><section class="variable-size-headings light v-split-container present has-light-background fitted" data-background-color="#76c2c0" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split media-grid" style="width: 100%; font-size: 0.953rem;">
+        <div style=""><h1 id="thestandardinterviewloop">The standard interview loop</h1>
+
+<p>This process can take anywhere from 2 weeks to 12!</p></div>
+        <img src="images/InterviewLoop.png" class=" size-contain position-right-center" style="">
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light full-image-container present has-light-background fitted" data-background-color="#76c4ba" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-full-image media-grid" style="width: 100%; font-size: 1rem;">
+        <div style=""><div class="single-image-wrapper"><img src="images/Screening%20Loop.png" class=" size-contain position-center-center"></div></div>
+        
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light full-image-container present has-light-background fitted" data-background-color="#75c6b4" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-full-image media-grid" style="width: 100%; font-size: 1rem;">
+        <div style=""><div class="single-image-wrapper"><img src="images/Portfolio%20Review.png" class=" size-contain position-center-center"></div></div>
+        
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light full-image-container present has-light-background fitted" data-background-color="#75c8ae" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-full-image media-grid" style="width: 100%; font-size: 1rem;">
+        <div style=""><div class="single-image-wrapper"><img src="images/Crit%20Loop.png" class=" size-contain position-center-center"></div></div>
+        
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light full-image-container present has-light-background fitted" data-background-color="#71b49b" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-full-image media-grid" style="width: 100%; font-size: 1rem;">
+        <div style=""><div class="single-image-wrapper"><img src="images/Traditional%20Loop.png" class=" size-contain position-center-center"></div></div>
+        
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light full-image-container present has-light-background fitted" data-background-color="#6da088" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-full-image media-grid" style="width: 100%; font-size: 1rem;">
+        <div style=""><div class="single-image-wrapper"><img src="images/Offer.png" class=" size-contain position-center-center"></div></div>
+        
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light cover-container present has-dark-background fitted" data-background-color="#698c75" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-cover" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="whatswrongwiththispicture">What's wrong with this picture?</h1></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section><section class="variable-size-headings light v-split-container present has-dark-background fitted" data-background-color="#657863" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="whatswrongwiththispicture">What's wrong with this picture?</h1></div>
+        <div style=""><h4 id="its...">It's...</h4>
+
+<h3 id="inequitable">Inequitable</h3></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light v-split-container present has-dark-background fitted" data-background-color="#616450" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="whatswrongwiththispicture">What's wrong with this picture?</h1></div>
+        <div style=""><h4 id="its...">It's...</h4>
+
+<h3 id="inequitable">Inequitable</h3>
+
+<h3 id="disrespectful">Disrespectful</h3></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light v-split-container present has-dark-background fitted" data-background-color="#5d503d" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="whatswrongwiththispicture">What's wrong with this picture?</h1></div>
+        <div style=""><h4 id="its...">It's...</h4>
+
+<h3 id="inequitable">Inequitable</h3>
+
+<h3 id="disrespectful">Disrespectful</h3>
+
+<h3 id="focusedonthewrongthings">Focused on the wrong things</h3></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light cover-container present has-dark-background fitted" data-background-color="#5a3d2b" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-cover" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="whydowedothistoeachother">Why do we do this to each other?</h1></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section><section class="variable-size-headings light v-split-container present has-dark-background fitted" data-background-color="#6b4c29" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split" style="width: 100%; font-size: 0.859rem;">
+        <div style=""><h1 id="ourhiringprinciples">Our hiring principles</h1></div>
+        <div style=""><h3 id="avoidingmisalignment">Avoiding misalignment</h3>
+
+<h3 id="evaluatingdesignprocessfoundations">Evaluating design process foundations</h3>
+
+<h3 id="fillinggapsinourteam">Filling gaps in our team</h3></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light v-split-container present has-dark-background fitted" data-background-color="#7c5c27" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split media-grid" style="width: 100%; font-size: 0.859rem;">
+        <div style=""><h1 id="whatwetried...">What we tried...</h1>
+
+<p><strong>How might we</strong> create a more <strong>equitable</strong> hiring process that <strong>respects candidates’ time</strong> while ensuring that we hire designers with the <strong>skills, values and interests</strong> needed for the roles we're trying to fill?</p></div>
+        <img src="images/InterviewLoop-New.png" class=" size-contain position-right-center" style="">
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light v-split-container present fit-warning has-dark-background fitted" data-background-color="#8d6c25" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split" style="width: 100%; font-size: 0.625rem;">
+        <div style=""><h1 id="portfoliopresentationsforvisualdesignrolesonly">Portfolio presentations for visual design roles only</h1></div>
+        <div style=""><h1 id=""></h1></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light v-split-container present fit-warning has-dark-background fitted" data-background-color="#9e7b23" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split" style="width: 100%; font-size: 0.625rem;">
+        <div style=""><h1 id="portfoliopresentationsforvisualdesignrolesonly">Portfolio presentations for visual design roles only</h1></div>
+        <div style=""><h1 id="noscreeningonyearsofexperience">No screening on years of experience</h1></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light cover-container present has-light-background fitted" data-background-color="#af8b21" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-cover" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="convincingthetalentteam">Convincing the Talent* team</h1>
+
+<p>*Recruiting/HR/etc.</p></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section><section class="variable-size-headings light v-split-container present has-light-background fitted" data-background-color="#c09b1f" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split media-grid" style="width: 100%; font-size: 0.859rem;">
+        <div style=""><h1 id="whatwetried...">What we tried...</h1>
+
+<p><strong>How might we</strong> create a more <strong>equitable</strong> hiring process that <strong>respects candidates’ time</strong> while ensuring that we hire designers with the <strong>skills, values and interests</strong> needed for the roles we're trying to fill?</p></div>
+        <img src="images/InterviewLoop-New.png" class=" size-contain position-right-center" style="">
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light v-split-container present has-light-background fitted" data-background-color="#d2ab1e" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split" style="width: 100%; font-size: 0.813rem;">
+        <div style=""><h1 id="thehiringmanagerinterview">The "hiring manager" interview</h1></div>
+        <div style=""><h2 id="visualdesignprompt">Visual Design Prompt</h2>
+
+<p><em>Show me one project that stands out to you as your best work. Feel free to skip the process, if that's not relevant. There will be a more formal portfolio review in the full-day interview.</em></p></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light v-split-container present has-light-background fitted" data-background-color="#d6a91f" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split" style="width: 100%; font-size: 0.859rem;">
+        <div style=""><h1 id="thehiringmanagerinterview">The "hiring manager" interview</h1></div>
+        <div style=""><h2 id="otherdesignroles">Other Design Roles</h2>
+
+<p><em>Please share one or two projects that you think demonstrate your understanding of research, design and collaboration. You can show these if you want, or speak to them.</em></p></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light cover-container present has-light-background fitted" data-background-color="#dba820" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-cover" style="width: 100%; font-size: 0.953rem;">
+        <div style=""><h1 id="thehiringmanagerinterview">The "hiring manager" interview</h1>
+
+<h2 id="whatsthepoint">What's the point?</h2></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section><section class="variable-size-headings light v-split-container present has-light-background fitted" data-background-color="#e0a621" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split media-grid" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="whatwetried...">What we tried...</h1>
+
+<p>Portfolio reviews for Visual Design roles <strong>only</strong></p></div>
+        <img src="images/Interview-visual.png" class=" size-contain position-right-center" style="">
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light v-split-container present has-light-background fitted" data-background-color="#e5a523" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split media-grid" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="whatwetried...">What we tried...</h1>
+
+<p>Replacing "homework" with "together work"</p></div>
+        <img src="images/Interview-together.png" class=" size-contain position-right-center" style="">
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light v-split-container present has-light-background fitted" data-background-color="#eaa324" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split media-grid" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="whatwetried...">What we tried...</h1>
+
+<p>For senior roles, there were only two additional interviews</p></div>
+        <img src="images/interview-senior.png" class=" size-contain position-right-center" style="">
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light cover-container present has-light-background fitted" data-background-color="#efa225" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-cover" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="whatwelearned">What we learned</h1></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section><section class="variable-size-headings light cover-container present has-light-background fitted" data-background-color="#f4a127" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-cover" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="whatdoyouthink">What do you think?</h1>
+
+<p>Up next: Looking ahead</p>
+
+<p>(AI, Economic Downturn, etc.)</p></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section><section class="variable-size-headings light cover-container present has-light-background fitted" data-background-color="#f19b25" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-cover" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="lookingahead">Looking ahead</h1></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section><section class="variable-size-headings light cover-container present has-light-background fitted" data-background-color="#ef9524" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-cover" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="aikilledtheportfoliostar">AI killed the portfolio star</h1></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section><section class="variable-size-headings light title-image-container present fit-warning has-light-background fitted" data-background-color="#ed8f23" data-updated="true" style="display: grid;">
+
+        <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+        <div class="layout-title-image media-grid" style="width: 100%; font-size: 0.766rem;">
+          <div style=""><p><a href="https://twitter.com/zander_supafast/status/1668605566908878850">@zander_supafast</a></p>
+
+<p>Example Site: <a href="https://uxpa2023-example.framer.ai/">https://uxpa2023-example.framer.ai/</a> </p></div>
+          <video controls="" class=" size-contain position-right-center" style="" data-paused-by-reveal=""><source src="images/83mmxZhVpHFIRJKb.mp4"></video>
+        </div>
+        <div class="footnotes"></div>
+        <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light cover-container present has-light-background fitted" data-background-color="#eb8921" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-cover" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="aikilledtheportfoliostar">AI killed the portfolio star</h1></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section><section class="variable-size-headings light v-split-container present has-light-background fitted" data-background-color="#e98320" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split media-grid" style="width: 100%; font-size: 0.813rem;">
+        <div style=""><h1 id="themagnetofmediocrity">The Magnet of Mediocrity</h1>
+
+<p>Source: <a href="https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c">Prakhar Mehrotra</a></p></div>
+        <img src="images/mediocrity2.png" class=" size-contain position-right-center" style="">
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light v-split-container present has-light-background fitted" data-background-color="#e77c1f" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split media-grid" style="width: 100%; font-size: 0.813rem;">
+        <div style=""><h1 id="themagnetofmediocrity">The Magnet of Mediocrity</h1>
+
+<p>Source: <a href="https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c">Prakhar Mehrotra</a></p></div>
+        <img src="images/mediocrity1.png" class=" size-contain position-right-center" style="">
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light v-split-container present has-light-background fitted" data-background-color="#e5771e" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split media-grid" style="width: 100%; font-size: 0.813rem;">
+        <div style=""><h1 id="themagnetofmediocrity">The Magnet of Mediocrity</h1>
+
+<p>Source: <a href="https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c">Prakhar Mehrotra</a></p></div>
+        <img src="images/mediocrity5.png" class=" size-contain position-right-center" style="">
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light v-split-container present has-light-background fitted" data-background-color="#df6d20" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split media-grid" style="width: 100%; font-size: 0.813rem;">
+        <div style=""><h1 id="themagnetofmediocrity">The Magnet of Mediocrity</h1>
+
+<p>Source: <a href="https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c">Prakhar Mehrotra</a></p></div>
+        <img src="images/mediocrity4.png" class=" size-contain position-right-center" style="">
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light v-split-container present has-dark-background fitted" data-background-color="#da6323" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split media-grid" style="width: 100%; font-size: 0.813rem;">
+        <div style=""><h1 id="themagnetofmediocrity">The Magnet of Mediocrity</h1>
+
+<p>Source: <a href="https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c">Prakhar Mehrotra</a></p></div>
+        <img src="images/mediocrity6.png" class=" size-contain position-right-center" style="">
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light v-split-container present has-dark-background fitted" data-background-color="#d45826" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-v-split media-grid" style="width: 100%; font-size: 0.859rem;">
+        <div style=""><h2 id="soweareleftwithalandscapewhereonlytwotiersofskillexist">So we are left with a landscape where only two tiers of skill exist</h2>
+
+<p>Source: <a href="https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c">Prakhar Mehrotra</a></p></div>
+        <img src="images/mediocrity3.png" class=" size-contain position-right-center" style="">
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+</section><section class="variable-size-headings light cover-container present has-dark-background fitted" data-background-color="#cf4f28" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-cover" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="hasaikilledtheportfolio">Has AI killed the portfolio?</h1></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section><section class="variable-size-headings light cover-container present has-dark-background fitted" data-background-color="#c9452b" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-cover" style="width: 100%; font-size: 1rem;">
+        <div style=""><h1 id="wecantintervieweveryone">We can't interview everyone</h1></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section><section class="variable-size-headings light default-container present has-dark-background fitted" data-background-color="#c43b2e" data-updated="true" style="display: grid;">
+
+      <div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      <div class="layout-default" style="width: 100%; font-size: 1rem;">
+        <div style=""><p><strong>How might we</strong> create a more <strong>equitable</strong> hiring process that evaluate's the <strong>skills, values and interests of candidates</strong> (not their AI assistants) while still <strong>respecting their time, effort and lives</strong>?</p></div>
+      </div>
+      <div class="footnotes"></div>
+      <div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
+      
+</section></div>
+    </div>
+    <script src="engine/index.js"></script>
+    <!--<script src="engine/d3v4.min.js" charset="utf-8"></script>
+    <script src="engine/charts.min.js" charset="utf-8"></script>
+    <script src="engine/billboard.min.js"></script>-->
+    <script src="engine/pptxgen.min.js"></script>
+                                                   <script src="engine/pfill.js"></script>
+    <script src="engine/published.js"></script>
+
+    <script>
+      Reveal.configure({
+        progress: true,
+        keyboard: true,
+        dependencies: [
+          {
+            src: "engine/highlight.js",
+            sync: true,
+            callback: function () {
+              hljs.initHighlightingOnLoad();
+            },
+          },
+        ],
+      });
+    </script>
+  </body>
+</html>
