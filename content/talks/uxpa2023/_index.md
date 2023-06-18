@@ -420,6 +420,8 @@ I can list on both hands people in my network who are currently looking for work
 So, I'd like to pose a slightly modified version of my problem statement to all y'all. 
 ---
 	**How might we** create a more **equitable** hiring process that evaluate's the **skills, values and interests of candidates** (not their AI assistants) while still **respecting their time, effort and lives**?
+	---
+#### Full transcript and slides can be found at: dreamindani.com/talks/uxpa2023
 If you're a hiring manager, I'd like to invite you to bring this back to your HR team and try to solve it together. If you're a candidate, I invite you to try to solve this yourself and add it to your portfolio. I know that if I saw a case study trying to solve something like this, it'd certainly stand out above the magnet of mediocrity.
 
 And, if there's time, I'd like to try to solve this together with all of you. Can we solve this? If not, what barriers are there between us now and a solution in the future?
