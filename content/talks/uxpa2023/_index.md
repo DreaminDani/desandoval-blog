@@ -13,7 +13,9 @@ description: "This session is designed for both job seekers and design managers.
   </iframe>
 </div>
 
-## *This talk was originally given at [UXPA 2023](https://uxpa2023.org/sessions/redesigning-the-design-interview-how-candidates-and-businesses-can-find-the-right-fit-by-rethinking-hiring-practices-from-first-principles/) with the following talk track:*
+## *This talk was originally given at [UXPA 2023](https://uxpa2023.org/sessions/redesigning-the-design-interview-how-candidates-and-businesses-can-find-the-right-fit-by-rethinking-hiring-practices-from-first-principles/) with the following talk track...*
+
+---
 
 # Redesigning the design interview
 #### How candidates and businesses can find the right "fit" by rethinking hiring practices from first principles
@@ -22,15 +24,15 @@ Hi everyone. It's great to meet y'all. My name is Dani and I'm currently the hea
 # Lessons Learned From..
 
 
-	5 -> 55 people
+5 -> 55 people
 # Discuss.io
-	~2.5k, after acquisition: ~30k
+~2.5k, after acquisition: ~30k
 # Pivotal Labs
-	50 -> ~500 people
+50 -> ~500 people
 # Chipper
-	11, early stage
+11, early stage
 # Stemma.ai
-	numbers above = growth during tenure
+numbers above = growth during tenure
 I've spent most of my career at startups. Some stayed small, while others hyper-scaled. One problem they all had in common was "hiring". 
 
 When you're small and your total headcount for the year is in the single digits, every hire counts for a lot... and mistakes can cost you more than just a few months - it can lead to failed launches, frustrated teams, and worse.
@@ -40,11 +42,11 @@ When teams are scaling up, which a lot of folks found themselves doing between t
 ---
 # Agenda
 ## An Initial Redesign
-	Updating our practices while growing
+Updating our practices while growing
 ## Q&A / Conversation
-	Let's chat about these ideas
+Let's chat about these ideas
 ## Looking ahead
-	AI, Economic Downturn, etc.
+AI, Economic Downturn, etc.
 I originally wrote this talk while in this second state. I was scaling up a design team at a hyper-growth company. Today, I'll be sharing the lessons I learned there, and do my best to connect them with larger trends I've seen as both a candidate and colleague to other design leaders.
 
 When I started at Chipper as employee 54 or so, I was the first design hire. By the time I left, I had hired a design team consisting of 15 other members - including ux, visual, content and brand design - as well as researchers and middle managers.
@@ -65,23 +67,24 @@ The way we do design hiring today is broken. Candidates are required to do too m
 Even before the mass layoffs from this last year, hiring managers find themselves overwhelmed by applicants - making it difficult to decide who to move forward with and how to efficiently evaluate skills during the interview process.
 ---
 # The standard interview loop
-	This process can take anywhere from 2 weeks to 12!
+This process can take anywhere from 2 weeks to 12!
 
-/assets/InterviewLoop.png
-size: contain
-x: right
+[InterviewLoop.png](presentation/images/InterviewLoop.png)
+
+
 
 This is what a standard interview loop looks like. Whether you're at a big company like Google or you're a startup who is trying to hire your first designer. "Everyone does it this way" for better or for worse.
 ---
-/assets/Screening Loop.png
-size: contain
+[ScreeningLoop.png](presentation/images/Screening%20Loop.png)
+
 
 Hiring starts with an application screening - where a recruiter or the hiring manager takes a look at a large number of candidates’ resumes and portfolios.
 
 Based on a rubric (or sometimes just a “gut feel”), the person reading through the applications will select a handful of candidates to move onto *at least* one “screening call" with the recruiter and/or hiring manager.
 ---
-/assets/Portfolio Review.png
-size: contain
+
+[PortfolioReview.png](presentation/images/Portfolio%20Review.png)
+
 
 If this initial call goes well, the candidate is usually required to do a portfolio review with all or some of the members of the “interview loop”. This panel is usually made up of members of the company that will be responsible for asking questions of the candidate throughout the rest of the loop and helping the hiring manager make their final decision. But sometimes, this "panel" is just one person.
 
@@ -89,8 +92,8 @@ A quick side note here: if you're doing portfolio reviews, please just require e
 
 When we were still doing portfolio presentations, this was by far the most frequent feedback we heard from candidates - citing feelings that they "were not being listened to" when they had to repeat the same stories. In some cases, they event had to pull up their portfolio again in other interviews, giving the same presentation twice or even three times 😬
 ---
-/assets/Crit Loop.png
-size: contain
+[CritLoop.png](presentation/images/Crit%20Loop.png)
+
 
 Then, the most time-consuming part of the loop begins. Sometimes combined with the portfolio review, a whiteboard interview is a chance for candidates to solve a problem that they will likely never face in the role they're being hired for. Over the course of an hour, sometimes longer, the candidate is asked to “redesign an ATM” or “design an app to coordinate ping-pong games at the office”.
 
@@ -106,8 +109,8 @@ This “take home assignment” is usually next. It's often just a higher fideli
 
 In a minute, I'll share why the take home assignment is problematic - especially for those transitioning from one career to another or moving companies.
 ---
-/assets/Traditional Loop.png
-size: contain
+[TraditionalLoop.png](presentation/images/Traditional&20Loop.png)
+
 
 But let's finish out the traditional loop.
 
@@ -119,8 +122,8 @@ These interviews are usually the first chance that a candidate has to really mee
 
 Good interviews usually have time for both - evaluative questions and ample time for the candidate to ask questions in return.
 ---
-/assets/Offer.png
-size: contain
+[Offer.png](presentation/images/Offer.png)
+
 
 At most large companies (like Google), this whole process can take 8-12 weeks from the first interview until the offer is negotiated and signed. At smaller companies, it's usually quite a bit shorter... but it's rare to see this loop take less than 2 weeks - given folks availability and the volume of other candidates being interviewed.
 
@@ -167,28 +170,28 @@ At Chipper, we identified that we were really interested in three things:
 
 ### Avoiding misalignment
 - We wanted to answer some important questions as a hiring team:
-	- "Does the candidate share our values?"
-	- "Can they resolve conflicts cross-culturally?"
-	- "Can we afford them?"
+- "Does the candidate share our values?"
+- "Can they resolve conflicts cross-culturally?"
+- "Can we afford them?"
 ### Evaluating design process foundations
 - We needed to evaluate candidates on the some basic criteria:
-	- Can they break down problems into more accomplishable steps?
-	- Can they prioritize problems based on user needs?
-	- Do they respond well to feedback?
-	- Can they actually “ship it” (as in, can they work with devs, adjust to business constraints, etc.)?
+- Can they break down problems into more accomplishable steps?
+- Can they prioritize problems based on user needs?
+- Do they respond well to feedback?
+- Can they actually “ship it” (as in, can they work with devs, adjust to business constraints, etc.)?
 ### Filling gaps in our team
 - We had an existing team and wanted to ensure that the folks we were hiring could fill the gaps
-	- What skills do they have already (are they UX experts? Visual designers? Or maybe they just have some Platform-specific expertise)
-	- What skills do they want to learn/grow in to? (These could be IC skills, Management skills, whatever helped us track their progress post-hiring - and avoid conflicts with other team member's growth trajectory)
+- What skills do they have already (are they UX experts? Visual designers? Or maybe they just have some Platform-specific expertise)
+- What skills do they want to learn/grow in to? (These could be IC skills, Management skills, whatever helped us track their progress post-hiring - and avoid conflicts with other team member's growth trajectory)
 
 After a few rounds of experimentation, we came up with a process that requires no “take home” work, and combines the “culture”, “technical”, and “whiteboard” interviews into a series of interviews with the minimal number of interviewers…
 ---
 # What we tried...
-	**How might we** create a more **equitable** hiring process that **respects candidates’ time** while ensuring that we hire designers with the **skills, values and interests** needed for the roles we're trying to fill?
+**How might we** create a more **equitable** hiring process that **respects candidates’ time** while ensuring that we hire designers with the **skills, values and interests** needed for the roles we're trying to fill?
 
-/assets/InterviewLoop-New.png
-size: contain
-x: right
+[InterviewLoop-New.png](presentation/images/InterviewLoop-New.png)
+
+
 It looks something like this. At first glance, there's a lot that's the same here. But, like most things in our field, there's some specific design details that ended up significantly improving the lives of our candidates, team members and recruiting team.
 
 It wouldn't be a design talk without a "how might we" statement... but I think it's helpful to frame this effort in a way that specifically targets the problems we're trying to solve. The one we came up with was:
@@ -211,7 +214,7 @@ We also agreed that years of experience could not be used to screen candidates i
 This was specifically because we were specifically hiring for more developing markets and those markets didn't have the same education systems, training or access to opportunities that our recruiters were used to when hiring from the Global North.
 ---
 # Convincing the Talent* team
-	*Recruiting/HR/etc.
+*Recruiting/HR/etc.
 It was important to us to get the Talent team on board with this new way of evaluating candidates or this whole thing would fall apart.
 
 Many of the points I've made so far about the limitations of our current hiring process was made to our recruiting partners and Head of People to get them to understand why this process needed to change.
@@ -219,11 +222,11 @@ Many of the points I've made so far about the limitations of our current hiring 
 By letting them shadow the new interview loops and allowing time for feedback from them (and candidates themselves) at the end of each loop, we gained their trust and quickly became the model they shared with other teams for how to improve their own hiring processes.
 ---
 # What we tried...
-	**How might we** create a more **equitable** hiring process that **respects candidates’ time** while ensuring that we hire designers with the **skills, values and interests** needed for the roles we're trying to fill?
+**How might we** create a more **equitable** hiring process that **respects candidates’ time** while ensuring that we hire designers with the **skills, values and interests** needed for the roles we're trying to fill?
 
-/assets/InterviewLoop-New.png
-size: contain
-x: right
+[InterviewLoop-New.png](presentation/images/InterviewLoop-New.png)
+
+
 After the initial resume screen, usually by the recruiter assigned to the role, but sometimes by the hiring manager themself, candidates got to talk to the recruiter. This was where the role was discussed in detail and the timing of the interview loop agreed upon.
 
 This call helped to make sure the candidate understood the scope of the position before they committed to the rest of the interview loop.
@@ -235,14 +238,14 @@ Candidates were then set up with a hiring manager interview...
 # The "hiring manager" interview
 
 ## Visual Design Prompt
-	*Show me one project that stands out to you as your best work. Feel free to skip the process, if that's not relevant. There will be a more formal portfolio review in the full-day interview.*
+*Show me one project that stands out to you as your best work. Feel free to skip the process, if that's not relevant. There will be a more formal portfolio review in the full-day interview.*
 - For roles with a visual design focus:
 This call is framed with the prompt, “Show me one project that stands out to you as your best work. Feel free to skip the process, if that's not relevant. There will be a more formal portfolio review in the full-day interview."
 ---
 # The "hiring manager" interview
 
 ## Other Design Roles
-	*Please share one or two projects that you think demonstrate your understanding of research, design and collaboration. You can show these if you want, or speak to them.*
+*Please share one or two projects that you think demonstrate your understanding of research, design and collaboration. You can show these if you want, or speak to them.*
 - For roles without a visual design focus:
 The call starts with, “Please share one or two projects that you think demonstrate your understanding of research, design and collaboration. You can show these if you want, or speak to them."
 ---
@@ -257,11 +260,11 @@ For candidates that did perform well, this up-front conversation with a hiring m
 Other than the "design studio" interview, which replaced the traditional "white boarding" and "take home" assignments, it was this hiring manager interview that got the most positive feedback from candidates.
 ---
 # What we tried...
-	Portfolio reviews for Visual Design roles **only**
+Portfolio reviews for Visual Design roles **only**
 
-/assets/Interview-visual.png
-size: contain
-x: right
+[Interview-visual.png](presentation/images/Interview-visual.png)
+
+
 Visual design candidates then presented at panel-style portfolio review, where they shared 2-4 pieces of work that demonstrate their understanding of research, design and collaboration with all members of the interview loop.
 
 The panel that was assigned for this interview had an understanding of Chipper's Design Principles and how to look for them within a portfolio. They were also the folks who would be interviewing the candidate 1on1 later on.
@@ -269,11 +272,11 @@ The panel that was assigned for this interview had an understanding of Chipper's
 **In our process, the portfolio review was for visual design roles only. For non-visual roles, we were finding very little signal from that given the rest of the loop.**
 ---
 # What we tried...
-	Replacing "homework" with "together work"
+Replacing "homework" with "together work"
 
-/assets/Interview-together.png
-size: contain
-x: right
+[Interview-together.png](presentation/images/Interview-together.png)
+
+
 That “take home” assignment and the whiteboard interview that preceded it was replaced by two “workshop” style interviews
 
 First, a member of the Product or Growth team - someone who would likely be working with them on a daily basis - presented a business problem framed by data. The candidate can ask questions, discuss options and frame a problem that can be solved by design.
@@ -289,11 +292,11 @@ This is probably the most casual interview of them all, since candidates get to 
 It's, also, by far the interview we got the most positive feedback on and where we stood out when being compared to other companies that the candidate was considering.
 ---
 # What we tried...
-	For senior roles, there were only two additional interviews
+For senior roles, there were only two additional interviews
 
-/assets/interview-senior.png
-size: contain
-x: right
+[interview-senior.png](presentation/images/interview-senior.png)
+
+
 **For more senior roles, there were only two additional interviews**
 
 One was the “Values” interview. Usually run by a member of our Operations team, this interview focuses on common and unique situations that occur in a remote startup. Candidates are asked how they might deal with them or have dealt with them in the past.
@@ -310,8 +313,8 @@ We actually ended up incorporating modified version of the “design studio” i
 We got lots of positive feedback from candidates as these new interviews came together. But I think it's time I asked...
 ---
 # What do you think?
-	Up next: Looking ahead
-	(AI, Economic Downturn, etc.)
+Up next: Looking ahead
+(AI, Economic Downturn, etc.)
 What do you think? Do you prefer this approach? Did we miss something totally obvious?
 
 For folks in the room who haven't been on the hiring side before, how would you feel going through a loop like this? Is there a more equitable process that we could adopt instead?
@@ -326,12 +329,12 @@ The first of which is AI. It's everywhere. From cover letters generated to ChatG
 Just the other day, I stumbled upon this video that showed how Framer could be used to generate a UX portfolio website with just a single prompt.
 
 ---
-	[@zander_supafast](https://twitter.com/zander_supafast/status/1668605566908878850)
-	Example Site:  [https://uxpa2023-example.framer.ai/](https://uxpa2023-example.framer.ai/) 
+[@zander_supafast](https://twitter.com/zander_supafast/status/1668605566908878850)
+Example Site:  [https://uxpa2023-example.framer.ai/](https://uxpa2023-example.framer.ai/) 
 
-/assets/83mmxZhVpHFIRJKb.mp4
-size: contain
-x: right
+[video.mp4](presentation/images/83mmxZhVpHFIRJKb.mp4)
+
+
 
 The person in the video runs a UX bootcamp - one of the many that's sprouted up over the past few years - to support the huge number of people who want to get into our field. 
 
@@ -349,27 +352,27 @@ In mentorship spaces, social media and university, we talk a lot about how portf
 But regurgitating content into prescribed formats is one of the things that generative AI is best at. So now that a portfolio that fits into the model we've been teaching designers to produce is just a prompt away, are they even worth reading anymore?
 ---
 # The Magnet of Mediocrity
-	Source: [Prakhar Mehrotra](https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c)
+Source: [Prakhar Mehrotra](https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c)
 
-/assets/mediocrity2.png
-size: contain
-x: right
+[mediocrity2.png](presentation/images/mediocrity2.png)
+
+
 I know I'm not the only one who spends less than a minute on a portfolio site or pdf to qualify or disqualify a candidate. Every role has different evaluation criteria but it's pretty easy to separate the folks at the bottom of this graph, the "Novice"s from the people further up.
 ---
 # The Magnet of Mediocrity
-	Source: [Prakhar Mehrotra](https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c)
+Source: [Prakhar Mehrotra](https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c)
 
-/assets/mediocrity1.png
-size: contain
-x: right
+[mediocrity1.png](presentation/images/mediocrity1.png)
+
+
 In the article that this image is sourced from, this area in green is described as the place where people are good enough at a skill that they can get paid for it. It's the people in this area that we're looking for when we're evaluating resumes, cover letters, portfolios and responses to our interview questions.
 ---
 # The Magnet of Mediocrity
-	Source: [Prakhar Mehrotra](https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c)
+Source: [Prakhar Mehrotra](https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c)
 
-/assets/mediocrity5.png
-size: contain
-x: right
+[mediocrity5.png](presentation/images/mediocrity5.png)
+
+
 But what happens if we introduce an AI into this graph? Well, it ends up sitting right here - at the middle.
 
 After all, ChatGPT and other generative models like it are essentially producing the most average of all content available on the internet.
@@ -377,29 +380,32 @@ After all, ChatGPT and other generative models like it are essentially producing
 But the average was in our green area.
 ---
 # The Magnet of Mediocrity
-	Source: [Prakhar Mehrotra](https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c)
+Source: [Prakhar Mehrotra](https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c)
 
-/assets/mediocrity4.png
-size: contain
-x: right
+[mediocrity4.png](presentation/images/mediocrity4.png)
+
+
 And, as it turns out, having everyone *below the average* looking a lot *like the average* really crowds up the space we're trying to evaluate. Especially when we're trying to hiring junior and associate designers.
 ---
 # The Magnet of Mediocrity
-	Source: [Prakhar Mehrotra](https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c)
+Source: [Prakhar Mehrotra](https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c)
 
-/assets/mediocrity6.png
-size: contain
-x: right
+[mediocrity6.png](presentation/images/mediocrity6.png)
+
+
 In his post, Prakhar also posits that above-average folks will also be drawn to use ChatGPT - bringing them down into the middle, as well. I'd tend to agree, especially if you consider my point in the first half of the talk about designers who don't have time to make a portfolio because they're **working** or **spending time with their family**.
 ---
 ## So we are left with a landscape where only two tiers of skill exist
-	Source: [Prakhar Mehrotra](https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c)
+Source: [Prakhar Mehrotra](https://medium.com/the-edge-of/chat-gpt-and-the-magnet-of-mediocrity-d8831c27705c)
 
-/assets/mediocrity3.png
-size: contain
-x: right
+[mediocrity3.png](presentation/images/mediocrity3.png)
 
-The "good enough" skill and the "top-tier", genius-level skill. In my experience hiring and talking to other hiring managers, portfolios are not usually used to identify this top-tier, genius level. Instead, they're a bar - sometimes an intentionally low bar - to easily screen out candidates who don't have enough experience to contribute meaningfully to a design team.
+
+So we are left with a landscape where only two tiers of skill exist. This top-level genius tier, and the flood of designers all drawn toward the magnet of mediocrity.
+
+In my experience hiring and talking to other hiring managers, portfolios are not usually used to identify this top-tier, genius level. These folks usually come in from recommendations or "head hunting" recruiters.
+
+Instead, we tend to use portfolios as a bar - sometimes an intentionally low bar - to easily screen out candidates who don't have enough experience to contribute meaningfully to a design team.
 
 Now that it's much easier to clear this bar with AI tools, I'd like to know...
 ---
@@ -409,7 +415,7 @@ And, if so... how do we deal with the reality that **we can't interview everyone
 # We can't interview everyone
 This was the most painful part of being a hiring manager. And I'm sure many of you in this room feel the same way. I know, in my heart of hearts, that there's amazing people that slipped through the cracks during my initial screening.
 
-Maybe it was their resume, unconventional education, or a poorly formatted portfolio. But I'm sure I missed a few diamonds in the rough.
+Maybe it was their resume, unconventional education, or a poorly formatted portfolio. But I'm sure I missed a few perfectly shaped needles in the haystack.
 
 There's a reason why more than 30% of jobs are filled by referrals ([source](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/employee-referrals-remains-top-source-hires.aspx))... it's really, really hard to evaluate candidates without talking to them. But we have to pre-screen somehow.
 
@@ -417,10 +423,12 @@ This has gotten even worse in the past year or so. As so many companies have bee
 
 I can list on both hands people in my network who are currently looking for work - from new grads to folks who have led dozens of teams. And all of them have been met with a faceless wall of rejection emails... or just ghosted altogether.
 
-So, I'd like to pose a slightly modified version of my problem statement to all y'all. 
+At Chipper, we spent multiple quarters redesigning our interview process from the first interview onwards. But I think it's time we expanded the scope of our problem to include initial screening, as well.
+
+To do that, I'd like to pose a slightly modified version of my problem statement to y'all. 
 ---
-	**How might we** create a more **equitable** hiring process that evaluate's the **skills, values and interests of candidates** (not their AI assistants) while still **respecting their time, effort and lives**?
-	---
+**How might we** create a more **equitable** hiring process that evaluates the **skills, values and interests of candidates** (not their AI assistants) while still **respecting their time, effort and lives**?
+---
 #### Full transcript and slides can be found at: dreamindani.com/talks/uxpa2023
 If you're a hiring manager, I'd like to invite you to bring this back to your HR team and try to solve it together. If you're a candidate, I invite you to try to solve this yourself and add it to your portfolio. I know that if I saw a case study trying to solve something like this, it'd certainly stand out above the magnet of mediocrity.
 

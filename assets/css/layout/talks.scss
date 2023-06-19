@@ -12,6 +12,12 @@
     font-style: italic;
   }
 
+  .inner {
+    h1 {
+      font-size: 1.75em;
+    }
+  }
+
   [style*="--aspect-ratio"] > :first-child {
     width: 100%;
   }
