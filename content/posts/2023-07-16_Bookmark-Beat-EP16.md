@@ -2,7 +2,7 @@
 title: 'Bookmark Beat: EP 16'
 description: On blindness, respecting human vulnerabilities and designing better interactions
 date: '2023-07-16T08:00:00.000Z'
-keywords: ['Bookmark Beat', 'Blindness', 'Design', 'Interaction Design', 'Videos']
+keywords: ['Bookmark Beat', 'Blindness', 'Design', 'Interaction Design', 'Cool Things']
 slug: /bookmark-beat-ep16
 ---
 
