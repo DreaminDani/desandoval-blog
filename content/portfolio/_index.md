@@ -12,6 +12,7 @@ description = "Portfolio"
 - Jim Maddock, Kate Starbird, Haneen Al-Hassani, Daniel E. Sandoval, Mania Orand, Robert M. Mason. Researching at the Intersection of Social Media and Disasters: Tracing the Spread of Misinformation after the 2013 Boston Marathon Bombing (CSCW 2015)
 
 ## Talks
+- "Redesigning the Design Interview" at *UXPA International 2023* (June 2023, [Slides](/talks/uxpa2023))
 - "Designing for DE&I through Conversation" at _Inclusify by Design_ (February 2021)
 - "Discovery and Framing" for _City of Ontario_ VMware Pivotal Labs (Spring 2020)
 - "UX Design after MVP: Measuring Success and When to Move On" at _USAF Kessel Run_ and _VMWare's Clarity Design Conference_ (Winter - Spring 2020)
@@ -40,6 +41,7 @@ description = "Portfolio"
 - HackTheCD: Designer, Developer & 1st Place Winner (September 2014)
 
 ## Contracts
+- AssetSprout: Initial Design (Winter 2022-2023)
 - Liberty Mutual: Product Designer (Spring 2020)
 - Humana : Product Designer (Winter 2020)
 - USAF Kessel Run: Product Designer (Summer 2019 - Winter 2020)

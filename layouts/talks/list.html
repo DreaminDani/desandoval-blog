@@ -1,13 +1,9 @@
 {{ define "main" }}
-<div id="talks">
+<div id="talks-page">
   <main id="talks-content">
     <h1>{{ .Title }}</h1>
-	<p class="description">
-		{{ .Description }}
-	</p>
-  <div class="inner">
-    {{.Content}}
-  </div>
+    <p class="description">{{ .Description }}</p>
+    <div class="inner">{{.Content}}</div>
   </main>
 </div>
 {{ end }}
