@@ -9,3 +9,6 @@ https://blog.desandoval.net/* https://desandoval.net/posts/:splat 301!
 /design-web     /portfolio
 /art-music      /portfolio
 /calendar       https://calendly.com/DreaminDani/30min
+
+# canonical redirects
+/talks/uxpa2023/index.xml /talks/uxpa2023/presentation/
