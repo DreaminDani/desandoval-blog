@@ -4,11 +4,11 @@
   "description": "DESandoval.net Blog",
   "main": "index.js",
   "scripts": {
-    "local": "netlify dev",
+    "local": "netlify dev --targetPort 5888",
     "build": "rollup -c",
     "autobuild": "rollup -c -w",
     "dev": "run-p autobuild hugo:dev",
-    "hugo:dev": "hugo server --bind=0.0.0.0 -D -p 5000"
+    "hugo:dev": "hugo server --bind=0.0.0.0 -D -p 5888"
   },
   "author": "DreaminDani",
   "license": "ISC",

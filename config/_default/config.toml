@@ -2,7 +2,7 @@ baseURL = "https://dreamindani.com"
 title = "Dani Sandoval"
 
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 summaryLength = 70
 buildFuture = true

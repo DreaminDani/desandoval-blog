@@ -7,7 +7,7 @@
 [[main]]
   identifier = "posts"
   name = "blog"
-  url = "blog"
+  url = "posts"
   weight = 2
 
 [[main]]
