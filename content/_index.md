@@ -15,4 +15,4 @@ In the fall of 2014, I studied computer science, software development, and desig
 
 I graduated from University of Washington with a degree in [Human Centered Design and Engineering](https://www.hcde.washington.edu/), helped build a resilient product development process at [Discuss.io](https://www.discuss.io), trained Fortune 500 product teams at [VMware Pivotal Labs](https://tanzu.vmware.com/labs), and grew a large global design team as the Director of Design at [Chipper Cash](https://chippercash.com).
 
-I am now the Head of Design at [Stemma](https://stemma.ai) - working to develop a user-centered approach to data governance and cataloging.
+I am now the Head of Design at [Stemma](https://stemma.ai) (now a part of Teradata) - working to develop a user-centered approach to data governance and cataloging.

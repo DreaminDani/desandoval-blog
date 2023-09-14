@@ -1,8 +1,8 @@
 <script>
   import { fade } from "svelte/transition";
   import GridGallery from "./GridGallery.svelte";
-  let growX = 2;
-  let growY = 2;
+  let growX = 1.5;
+  let growY = 1.5;
   let duration = 700;
   let activeClassName = "GridGalleryActiveItem";
   $: cs = [
@@ -57,7 +57,7 @@
     },
     {
       image: "/img/portfolio/stemma.png",
-      url: "https://www.stemma.ai/about",
+      url: "/archive/more-than-a-makeover-a-behind-the-scenes-look-at-stemmas-redesign",
       logo: "/img/portfolio/stemma-logo.png",
       color: "rgba(10, 25, 48, 1)",
       inverted: false,
@@ -67,6 +67,18 @@
         "Fostering a user-centered approach to data governance and open source tools",
       active: false,
     },
+    {
+      image: "/img/portfolio/teradata.png",
+      url: "https://www.teradata.com/Press-Releases/2023/Teradata-Acquires-Stemma-Adding-AI-Technology-and-Talent",
+      logo: "/img/portfolio/teradata-logo.png",
+      color: "rgba(255, 255, 255, 1)",
+      inverted: true,
+      title: "Teradata (Current)",
+      subtitle: "Expanding Data Discovery at Scale",
+      description:
+        "Leading design for the integration of Stemma into Teradata's Enterprise product landscape",
+      active: false,
+    }
   ];
 
   // detect small screen sizes
@@ -87,8 +99,8 @@
   class="gg"
   {growX}
   {growY}
-  rows={mediumMatches ? cs.length : 1}
-  cols={mediumMatches ? 1 : cs.length}
+  rows={mediumMatches ? cs.length : 2}
+  cols={mediumMatches ? 1 : (cs.length / 2)}
   {duration}
   {activeClassName}
 >
@@ -101,7 +113,7 @@
       href={c.url}
       class="c"
       style="position:relative; {mediumMatches
-        ? `background: ${c.color};`
+        ? `background: ${c.color}; height: 7.2em;`
         : `background-image:url(${c.image});`}"
       target="_blank"
     >
@@ -115,8 +127,8 @@
       {#if mediumMatches || c.active}
         <span
           transition:fade={{ duration: 80 }}
-          style="background-color: rgba(0,0,0,0.24); position:absolute; width:100%; color:white; filter: drop-shadow(2px 4px 6px black); {mediumMatches
-            ? 'text-align: left; bottom:.8em; left:.5em;'
+          style="border-radius: 2px; background-color: rgba(0,0,0,0.24); position:absolute; width:100%; color:white; filter: drop-shadow(1px 2px 3px rgba(0,0,0,0.4)); {mediumMatches
+            ? 'text-align: left; bottom:0.25em; left:.5em;'
             : 'text-align: center; top:1.5em; left:0; padding: 0.5em 0;'}"
         >
           {c.description}
@@ -125,7 +137,7 @@
       <span
         style="position:absolute; width:100%; {c.inverted && mediumMatches
           ? 'color: #212121;'
-          : 'color:white;'} filter: drop-shadow(2px 4px 6px black); {mediumMatches
+          : 'color:white;'} filter: drop-shadow(1px 2px 3px rgba(0,0,0,0.4)); {mediumMatches
           ? 'text-align: left; top:.5em; left:.5em;'
           : 'text-align: center; bottom:.5em; left:0; background-color: rgba(0,0,0,0.24); padding: 0.8em 0;'}"
       >
@@ -146,11 +158,6 @@
 
   :global(.gg) {
     margin-top: 6rem;
-    height: calc(80vh - 3rem);
+    height: calc(6*7.2em);
   }
-  /*
-	:global(.GridGalleryActiveItem){
-		border: solid 1px white !important;
-	}
-	*/
 </style>
