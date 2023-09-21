@@ -103,7 +103,7 @@ This last set of links is about what happens when we choose to spend that time w
 
 > We’ll see if our philosophy holds out, but the idea is that you invest in your people and the company will be successful, rather than investing in your company first
 
-I hope these excerpts inspire you to read at least one of these articles. They all, I feel, touch on a different aspect of coming together. From choosing to find common ground with those unlike yourself to choosing to be the ones closest to you in order to have a stronger foundation. I think it's helpful to consider these as different choices and to invest our energy in the relationships we feel will help us grow stronger as individuals.
+I hope these excerpts inspire you to read at least one of these articles. They all, I feel, touch on a different aspect of coming together. From choosing to find common ground with those unlike yourself to choosing to be with the ones closest to you in order to have a stronger foundation. I think it's helpful to consider these as different choices and to invest our energy in the relationships we feel will help us grow stronger as individuals.
 
 ## Coda: Gender in industry
 
