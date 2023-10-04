@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {{ partial "head" . }}
+    {{ template "_internal/google_analytics.html" . }}
+</head>
+
+<body>
+    {{ partial "header" . }}
+    {{ block "main" . }}{{ end }}
+    {{ partial "footer" . }}
+    {{ partial "headroom" . }}
+</body>
+
+</html>

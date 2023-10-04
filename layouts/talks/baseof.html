@@ -3,7 +3,6 @@
 
 <head>
   {{ partial "head" . }}
-  <script src="/svelte/iam.js" defer></script>
   {{ template "_internal/google_analytics.html" . }}
 </head>
 
@@ -11,7 +10,7 @@
   {{ partial "header" . }}
   {{ block "main" . }}{{ end }}
   {{ partial "footer" . }}
-	{{ partial "headroom" . }}
+  {{ partial "headroom" . }}
 </body>
 
 </html>
