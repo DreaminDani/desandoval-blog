@@ -105,12 +105,12 @@ So hang in there y'all. 2024 is going to be a bumpy ride!
 
 ## Coda: Books I'm reading
 
-Last time, I shared the books I was reading and many of y'all seemed to enjoy it. So here's a few I've finished between the last beat and now:
+Last time, I shared the books I was reading and y'all seemed to enjoy it. So here's a few I've finished between the last beat and now:
 
-- [Minor Feelings](https://www.pulitzer.org/finalists/cathy-park-hong) is a collection of essays that examines the Asian American experience, the frustrations of friendship and family. It was sometimes difficult, other times humorous; but mostly, it shared a context with me that I am mostly unaware of. I enjoyed it very much.
+- [Minor Feelings](https://www.pulitzer.org/finalists/cathy-park-hong) is a collection of essays that examines the Asian American experience, the frustrations of friendship and family. It was sometimes difficult, other times humorous; but mostly, it shared a context with me that I was otherwise oblivious to. I enjoyed it very much.
 - [Go As a River](https://www.shelleyread.com/recognition) doesn't pull any punches. Taking place on a peach farm in rural Colorado, this story of young love and loss after loss *after loss* pulled me in with its gorgeous descriptions and kept me reading long after I stopped crying.
-- [Design is a Job (2nd Edition)](https://www.designisajob.com/) is the zine you've always wanted. Vulgar, helpful and true. I nodded along to the things I knew already and learned a lot more about myself and the situation that many designers are stuck in today.
-- And, of course, War & Peace (Unabridged) via [Modern Serial](https://modernserial.com/) (and, simultaneously, via the amazing audiobook by [Neville Jason](https://naxosaudiobooks.com/war-and-peace-volume-i-unabridged/)). It's still just as good as last time I talked about it! By this time next year I should be done with it.
+- [Design is a Job (2nd Edition)](https://www.designisajob.com/) is the zine you've always needed. Vulgar, helpful and true. I nodded along to the things I knew already and learned a lot more about myself and the situation that many designers are stuck in today.
+- And, of course, War & Peace (Unabridged) via [Modern Serial](https://modernserial.com/) (and, simultaneously, via the amazing audiobook by [Neville Jason](https://naxosaudiobooks.com/war-and-peace-volume-i-unabridged/)). It's still just as good as last time I wrote about it! By this time next year I should be done with it.
 
 ---
 
