@@ -2,7 +2,7 @@
 title: 'Bookmark Beat: EP 18'
 description: AI's attempts to replace human creativity + how we can build a better design field
 date: '2023-12-13T08:00:00.000Z'
-keywords: ['Bookmark Beat', 'AI', '']
+keywords: ['Bookmark Beat', 'AI', 'Creating Art', 'Empowerment']
 slug: /bookmark-beat-ep18
 ---
 
@@ -12,7 +12,7 @@ slug: /bookmark-beat-ep18
 }
 </style>
 
-Welcome back to the Bookmark Beat 🥁 Your ~~weekly~~ ~~monthly~~ quarterly breakdown of all the things around the web I found interesting. In case you forgot about this newsletter (I know, it's been a while), I'm Dani - Designer at Stemma (now a part of Teradata) 👋 I usually write about design, games, space and music.
+Welcome back to the Bookmark Beat 🥁 Your ~~weekly~~ ~~monthly~~ quarterly breakdown of all the things around the web I found interesting. In case you forgot about this newsletter (I know, it's been a while), I'm Dani - Designer at Stemma (now a part of Teradata) 👋 I usually write about design, games, space and music. All opinions are my own and don’t represent my employer, etc. etc.
 
 If you're new to the beat, you can always check out [the archive](/posts). Most of the links I share stay fresh for a long time and are relevant months (and possibly years?) later. So head back there, if you end up liking this one!
 
