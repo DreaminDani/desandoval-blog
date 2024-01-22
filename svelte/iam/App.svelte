@@ -13,19 +13,27 @@
 
   async function getListeningTo() {
     gettingNowPlaying = true;
-    const res = await fetch("/.netlify/functions/iam-listeningto");
-    const response = await res.json();
-    nowPlaying = response;
+    try {
+      const res = await fetch("/.netlify/functions/iam-listeningto");
+      const response = await res.json();
+      nowPlaying = response;
+    } catch (e) {
+      console.log(e);
+    }
     console.log(nowPlaying);
     gettingNowPlaying = false;
   }
 
   async function getReading() {
     gettingReadingList = true;
-    const res = await fetch("/.netlify/functions/iam-reading");
-    const response = await res.json();
-    readingList = response;
-    // console.log(readingList);
+    try {
+      const res = await fetch("/.netlify/functions/iam-reading");
+      const response = await res.json();
+      readingList = response;
+    } catch (e) {
+      console.log(e);
+    }
+    console.log(readingList);
     gettingReadingList = false;
   }
 </script>
