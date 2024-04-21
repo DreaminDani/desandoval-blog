@@ -2,7 +2,7 @@
 title: 'Bookmark Beat: EP 19'
 description: New year, new me!
 date: '2024-04-20T08:00:00.000Z'
-keywords: ['Bookmark Beat', 'TBD', 'TBD', 'TBD']
+keywords: ['Bookmark Beat']
 slug: /bookmark-beat-ep19
 ---
 
