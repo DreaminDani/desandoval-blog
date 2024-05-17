@@ -1,6 +1,6 @@
 ---
 title: 'Bookmark Beat: EP 20'
-description: Designers as decision-makers
+description: Design's role in decision making
 date: '2024-05-17T08:00:00.000Z'
 keywords: ['Bookmark Beat']
 slug: /bookmark-beat-ep20
