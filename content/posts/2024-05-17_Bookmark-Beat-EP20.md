@@ -61,7 +61,7 @@ In these contexts, I don't think we can advocate for the user, the customer or a
 
 So if the growth of in-house design teams was actually caused by seeing design as a "competitive advantage," what happens to those same teams when competition decreases? What role do they play on a team full of business strategists, lawyers and a burnt-out engineering team who is just trying to keep the lights on?
 
-I think the answer revolves somewhere around designers being more involved in decision making. Engineers may have the knowledge of the underlying system while sales, product owners and the executive have context on how a company fits in the current market. But those who are closest to the customer are more likely to have a pulse on how the underlying sentiment of a user may change the market.
+I think the answer revolves somewhere around designers being more involved in decision making. Engineers may have the knowledge of the underlying system while sales, product owners and the executive have context on how a company fits in the current market. But those who are closest to the customer are more likely to have a pulse on how the underlying sentiment of a user may *change the market*.
 
 ### Why do designers have to do it?
 
@@ -76,7 +76,7 @@ If anything, it'll give us something to do while we wait 6 months for that featu
 
 Here's the books I've read (or am still reading) this month:
 
-- [Someone You Can Build a Nest In](https://bookshop.org/p/books/someone-you-can-build-a-nest-in-john-wiswell/20241154?ean=9780756418854) was a gross, queer and deliciously heartwarming novel. Despite being a shape-shifting flesh monster, the main character was relateable and hilarious. This book definitely had a positive impact on my
+- [Someone You Can Build a Nest In](https://bookshop.org/p/books/someone-you-can-build-a-nest-in-john-wiswell/20241154?ean=9780756418854) was a gross, queer and deliciously heartwarming novel. Despite being a shape-shifting flesh monster, the main character was relatable and hilarious. This book definitely had a positive impact on my
 - [This Is How You Lose the Time War](https://bookshop.org/p/books/this-is-how-you-lose-the-time-war-amal-el-mohtar/18270911?ean=9781534430990) was a bit too full of itself for me to really feel connected to it. The last quarter of the book was really solid and I think they stuck the landing... but I think it would have been better as a short story.
 - [The Southern Book Club's Guide to Slaying Vampires](https://bookshop.org/p/books/the-southern-book-club-s-guide-to-slaying-vampires-grady-hendrix/15313751) takes place in the same town as My Best Friend's Exorcism but, instead, deals with the mind and mayhem of being a southern housewife. I felt a lot of affinity for Patricia Campbell and loved rooting for her and her friends as their lives (and their book club!) was infiltrated by a nasty vampire.
 - I'm also now switching off between [The Silmarillion](https://bookshop.org/p/books/the-silmarillion-j-r-r-tolkien/7084205) and [War and Peace](https://bookshop.org/p/books/war-and-peace-penguin-classics-deluxe-edition-leo-tolstoy/18529491?ean=9780143039990) as my "long reads." They are currently competing to be completed first!
