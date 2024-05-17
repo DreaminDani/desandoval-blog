@@ -6,7 +6,7 @@ keywords: ['Bookmark Beat', 'Layoffs', 'Design Inspiration', 'Music']
 slug: /bookmark-beat-ep14
 ---
 
-Hey y'all. Long time no see! There's been a lot going on in my life... from a huge quarter of new releases at [Stemma](https://www.stemma.ai/) to buying my first house with my wonderful partner, I haven't had a lot of time recently to sit back and reflect on the community I've built (that's y'all) 🙏🏼
+Hey y'all. Long time no see! There's been a lot going on in my life... from a huge quarter of new releases at [Stemma](https://dreamindani.com/archive/more-than-a-makeover-a-behind-the-scenes-look-at-stemmas-redesign) to buying my first house with my wonderful partner, I haven't had a lot of time recently to sit back and reflect on the community I've built (that's y'all) 🙏🏼
 
 It's been so nice to read your messages responding to my thoughts! And, if you're new here, know that I'm *super receptive* to feedback. Is there something that I shared that changed how you thought about something? Or maybe you disagree with an opinion or two. Either way, I'd love to know!
 

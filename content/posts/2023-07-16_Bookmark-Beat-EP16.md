@@ -6,7 +6,7 @@ keywords: ['Bookmark Beat', 'Blindness', 'Design', 'Interaction Design', 'Cool T
 slug: /bookmark-beat-ep16
 ---
 
-Hey y'all. It's been a couple months... Sorry for leaving you hanging! I've been busy [giving a talk at UXPA](/talks/uxpa2023), launching [a bunch](https://www.stemma.ai/blog-post/more-than-a-makeover-a-behind-the-scenes-look-at-stemmas-redesign) of [new features](https://www.stemma.ai/blog-post/diving-into-the-details-a-deeper-look-at-stemmas-redesign) at [Stemma.ai](https://www.stemma.ai/blog-post/stemma-makes-ai-discover-assistant-available-for-all-customers) and otherwise falling behind on my stack of bookmarks.
+Hey y'all. It's been a couple months... Sorry for leaving you hanging! I've been busy [giving a talk at UXPA](/talks/uxpa2023), launching [a bunch](https://dreamindani.com/archive/more-than-a-makeover-a-behind-the-scenes-look-at-stemmas-redesign) of new features and otherwise falling behind on my stack of bookmarks.
 
 Over the last two weeks, I caught up and I'd love to share a few snippets of what I've been reading...
 
