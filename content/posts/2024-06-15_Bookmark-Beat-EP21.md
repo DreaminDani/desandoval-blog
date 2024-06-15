@@ -6,9 +6,9 @@ keywords: ['Bookmark Beat']
 slug: /bookmark-beat-ep21
 ---
 
-Hey y'all and welcome back to the Bookmark Beat 🥁. This is my third month of writing it monthly and I'm really liking this cadence. Thank you to everyone who stuck with me during the dry spell and 👋🏼 HELLO 👋🏼 to all the new folks who decided to subscribe over the last few weeks. I look forward to hearing your feedback on what you liked (and, if you'd be so kind, what you didn't like).
+Hey y'all and welcome back to the Bookmark Beat 🥁. This is my third month of writing it monthly and I'm really liking this cadence. Thank you to everyone who stuck with me during the dry spell and 👋🏼 hello to all the new folks who decided to subscribe over the last few weeks. I look forward to hearing your feedback on what you liked (and, if you'd be so kind, what you didn't like).
 
-My aim is for this newsletter to be accessible to folks who work in tech and the more casual reader. So I do encourage anyone who's reading this that isn't a designer, developer or otherwise working at a tech company to still try out the "B" section - there might be something there that speaks to you 😉
+My aim is for this newsletter to be accessible to folks who work in tech as well as the more casual reader. So I'd encourage anyone who's reading this that isn't a designer, developer or otherwise working at a tech company to still try out the "B" section - there might be something there that speaks to you 😉
 
 > Want to know what podcasts and music I'm listening to? Or maybe you just prefer a realtime feed of my latest bookmarks... if so, check out the ["I am" page](/iam) on my website.
 > 
