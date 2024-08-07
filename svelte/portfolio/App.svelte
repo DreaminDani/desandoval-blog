@@ -61,24 +61,24 @@
       logo: "/img/portfolio/stemma-logo.png",
       color: "rgba(10, 25, 48, 1)",
       inverted: false,
-      title: "Stemma",
-      subtitle: "Designing for the Data Domain",
+      title: "Stemma/Teradata",
+      subtitle: "Leading Design for the Data Domain",
       description:
         "Fostering a user-centered approach to data governance and open source tools",
       active: false,
     },
     {
-      image: "/img/portfolio/teradata.png",
-      url: "https://www.teradata.com/Press-Releases/2023/Teradata-Acquires-Stemma-Adding-AI-Technology-and-Talent",
-      logo: "/img/portfolio/teradata-logo.png",
+      image: "/img/portfolio/equall.png",
+      url: "https://equall.com",
+      logo: "/img/portfolio/equall-logo.png",
       color: "rgba(255, 255, 255, 1)",
       inverted: true,
-      title: "Teradata (Current)",
-      subtitle: "Expanding Data Discovery at Scale",
+      title: "Equall (Current)",
+      subtitle: "Designing Frontier AI Systems for Law",
       description:
-        "Leading design for the integration of Stemma into Teradata's Enterprise product landscape",
+        "Combining machine learning techniques to a nuanced understanding of legal workflows",
       active: false,
-    }
+    },
   ];
 
   // detect small screen sizes
@@ -100,7 +100,7 @@
   {growX}
   {growY}
   rows={mediumMatches ? cs.length : 2}
-  cols={mediumMatches ? 1 : (cs.length / 2)}
+  cols={mediumMatches ? 1 : cs.length / 2}
   {duration}
   {activeClassName}
 >
@@ -142,7 +142,9 @@
           : 'text-align: center; bottom:.5em; left:0; background-color: rgba(0,0,0,0.24); padding: 0.8em 0;'}"
       >
         <h2 style="margin:0; padding-bottom: 0.25em;">{c.title}</h2>
-        {#if !smallMatches} {c.subtitle} {/if}
+        {#if !smallMatches}
+          {c.subtitle}
+        {/if}
       </span>
     </a>
   {/each}
@@ -158,6 +160,6 @@
 
   :global(.gg) {
     margin-top: 6rem;
-    height: calc(6*7.2em);
+    height: calc(6 * 7.2em);
   }
 </style>

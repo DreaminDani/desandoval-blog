@@ -13,6 +13,8 @@ When designers work closely with developers and remain open to feedback, we can 
 
 In the fall of 2014, I studied computer science, software development, and design at [AIT-Budapest](http://www.ait-budapest.com/). I was mentored by the great Ernö Rubik ([Rubik’s Cube](http://www.rubiks.com/), creator), Ernö Duda ([SOLVO BioTech](http://www.solvobiotech.com/), founder), and Gábor Bojár ([Graphisoft](http://www.graphisoft.com/), founder) to expand my international view of the user experience.
 
-I graduated from University of Washington with a degree in [Human Centered Design and Engineering](https://www.hcde.washington.edu/), helped build a resilient product development process at [Discuss.io](https://www.discuss.io), trained Fortune 500 product teams at [VMware Pivotal Labs](https://tanzu.vmware.com/labs), and grew a large global design team as the Director of Design at [Chipper Cash](https://chippercash.com).
+I graduated from University of Washington with a degree in [Human Centered Design and Engineering](https://www.hcde.washington.edu/), helped build a resilient product development process at [Discuss.io](https://www.discuss.io), trained Fortune 500 product teams at [VMware Pivotal Labs](https://tanzu.vmware.com/labs), and grew a large global design team as the Director of Design at [Chipper Cash](https://chippercash.com). As Head of Design at [Stemma](https://dreamindani.com/archive/more-than-a-makeover-a-behind-the-scenes-look-at-stemmas-redesign), I brought a user-centered approach to the technical world of data governance - leading us to an acquisition by Teradata.
 
-I am now the Head of Design at [Stemma](https://dreamindani.com/archive/more-than-a-makeover-a-behind-the-scenes-look-at-stemmas-redesign) (now part of Teradata) - working to develop a user-centered approach to data governance and cataloging.
+Now I am Head of Design at [Equall](https://equall.com) where I am combining machine learning techniques to a nuanced understanding of legal workflows.
+
+To follow along with everything I'm up to, feel free to [subscribe to my newsletter](https://bookmarkbeat.substack.com/)!

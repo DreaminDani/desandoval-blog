@@ -62,8 +62,32 @@ body {
 }
 
 footer {
-    text-align: right;
-    padding: 1em;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-top: 2em !important;
+    padding-top: 1em !important;
+
+    img {
+        width: 80px;
+        height: auto;
+        padding: 0.25em;
+    }
+    .right {
+        text-align: right;
+        padding: 1em;
+    }
+}
+
+body#home, body#posts {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    footer {
+        @include max-width-layout();
+        margin-top: auto;
+    }
 }
 
 h1 {
